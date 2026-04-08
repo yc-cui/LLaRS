@@ -1,0 +1,61 @@
+{
+  "path": "data_utils/dataset_files/noise/sar_despeckle_dataset.json",
+  "dataset_name": "noise_sar_despeckle",
+  "dataset_description": "SAR-despeckle: noisy SAR intensity and clean reference intensity",
+  "inputs": {
+    "intensity": {
+      "description": "Noisy SAR intensity input",
+      "width": 256,
+      "height": 256,
+      "dtype": "float32",
+      "visual_channels": [
+        0
+      ],
+      "mean": [
+        203217.36396747333
+      ],
+      "std": [
+        2770315.7850503447
+      ],
+      "min": [
+        809.2160677083333
+      ],
+      "max": [
+        83355261.33057292
+      ],
+      "num_channels": 1,
+      "norm_type": "zscore",
+      "norm_shift": 0,
+      "norm_value": 1
+    },
+    "shp_intensity": {
+      "description": "Clean SAR intensity reference",
+      "width": 256,
+      "height": 256,
+      "dtype": "float32",
+      "visual_channels": [
+        0
+      ],
+      "mean": [
+        203217.36396747333
+      ],
+      "std": [
+        2770315.7850503447
+      ],
+      "min": [
+        809.2160677083333
+      ],
+      "max": [
+        83355261.33057292
+      ],
+      "num_channels": 1,
+      "norm_type": "zscore",
+      "norm_shift": 0,
+      "norm_value": 1
+    }
+  },
+  "num_train": 600,
+  "num_valid": 149,
+  "num_test": 187,
+  "num_total": 936
+}

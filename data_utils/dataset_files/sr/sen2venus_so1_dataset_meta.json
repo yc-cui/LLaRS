@@ -1,0 +1,89 @@
+{
+  "path": "data_utils/dataset_files/sr/sen2venus_so1_dataset.json",
+  "dataset_name": "sr_sen2venus_so1",
+  "dataset_description": "Sen2Venus SO1 super-resolution dataset: Sentinel-2 10 m to Venus 5 m",
+  "inputs": {
+    "lr": {
+      "description": "Sentinel-2 10 m low-resolution input",
+      "width": 128,
+      "height": 128,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        462.22084675440243,
+        746.7424771392712,
+        773.1187158942656,
+        2745.2569093193415
+      ],
+      "std": [
+        265.6348142195979,
+        344.73207120068565,
+        525.268184571948,
+        883.5027576108306
+      ],
+      "min": [
+        113.19564208374024,
+        223.79317290039063,
+        136.4456891845703,
+        1009.3909596435547
+      ],
+      "max": [
+        1662.2486360656737,
+        2056.37103046875,
+        2422.770680755615,
+        4926.846010009765
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    },
+    "hr": {
+      "description": "Venus 5 m high-resolution ground truth",
+      "width": 256,
+      "height": 256,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        462.22084675440243,
+        746.7424771392712,
+        773.1187158942656,
+        2745.2569093193415
+      ],
+      "std": [
+        265.6348142195979,
+        344.73207120068565,
+        525.268184571948,
+        883.5027576108306
+      ],
+      "min": [
+        113.19564208374024,
+        223.79317290039063,
+        136.4456891845703,
+        1009.3909596435547
+      ],
+      "max": [
+        1662.2486360656737,
+        2056.37103046875,
+        2422.770680755615,
+        4926.846010009765
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    }
+  },
+  "num_train": 7692,
+  "num_valid": 1923,
+  "num_test": 2403,
+  "num_total": 12018
+}

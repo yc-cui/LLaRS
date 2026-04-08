@@ -1,0 +1,212 @@
+{
+  "train": [
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2013-9-1.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2013-9-1.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2013-11-4.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2013-11-4.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2013-11-4.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2013-11-4.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2014-4-29.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2014-4-29.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2014-4-29.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2014-4-29.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2014-8-19.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2014-8-19.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2014-8-19.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2014-8-19.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2014-9-4.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2014-9-4.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2014-9-4.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2014-9-4.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2014-10-6.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2014-10-6.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2014-10-6.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2014-10-6.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2014-12-25.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2014-12-25.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2014-12-25.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2014-12-25.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2015-2-11.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2015-2-11.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2015-2-11.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2015-2-11.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2015-3-15.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2015-3-15.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2015-3-15.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2015-3-15.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2015-4-16.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2015-4-16.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2015-4-16.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2015-4-16.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2015-5-18.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2015-5-18.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2015-5-18.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2015-5-18.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2015-8-22.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2015-8-22.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2015-8-22.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2015-8-22.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2016-2-14.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2016-2-14.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2016-2-14.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2016-2-14.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2016-5-4.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2016-5-4.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2016-5-4.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2016-5-4.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2016-12-14.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2016-12-14.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2016-12-14.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2016-12-14.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2017-5-7.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2017-5-7.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2017-5-7.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2017-5-7.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2017-7-10.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2017-7-10.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2017-7-10.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2017-7-10.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2017-9-12.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2017-9-12.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2017-9-12.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2017-9-12.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2017-11-15.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2017-11-15.tif"
+    }
+  ],
+  "valid": [
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2017-11-15.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2017-11-15.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2018-2-3.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2018-2-3.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2018-2-3.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2018-2-3.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2018-4-8.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2018-4-8.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2018-4-8.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2018-4-8.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2018-10-1.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2018-10-1.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2018-10-1.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2018-10-1.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2018-12-4.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2018-12-4.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2018-12-4.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2018-12-4.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2019-1-21.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2019-1-21.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2019-1-21.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2019-1-21.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2019-5-29.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2019-5-29.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2019-5-29.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2019-5-29.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2019-8-17.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2019-8-17.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2019-8-17.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2019-8-17.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2019-9-18.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2019-9-18.tif"
+    }
+  ],
+  "test": [
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2017-11-15.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2017-11-15.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2018-2-3.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2018-2-3.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2018-2-3.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2018-2-3.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2018-4-8.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2018-4-8.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2018-4-8.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2018-4-8.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2018-10-1.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2018-10-1.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2018-10-1.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2018-10-1.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2018-12-4.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2018-12-4.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2018-12-4.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2018-12-4.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2019-1-21.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2019-1-21.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2019-1-21.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2019-1-21.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2019-5-29.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2019-5-29.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2019-5-29.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2019-5-29.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2019-8-17.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2019-8-17.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/Tianjin/Landsat/L-2019-8-17.tif",
+      "lr_prev": "stf/data/Datasets/Tianjin/MODIS/M-2019-8-17.tif",
+      "hr_gt": "stf/data/Datasets/Tianjin/Landsat/L-2019-9-18.tif",
+      "lr_curr": "stf/data/Datasets/Tianjin/MODIS/M-2019-9-18.tif"
+    }
+  ]
+}

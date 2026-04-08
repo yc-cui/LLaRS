@@ -1,0 +1,81 @@
+{
+  "path": "data_utils/dataset_files/sr/oli2msi_dataset.json",
+  "dataset_name": "sr_oli2msi",
+  "dataset_description": "OLI2MSI super-resolution: Landsat-8 LR input and Sentinel-2 HR ground truth",
+  "inputs": {
+    "lr": {
+      "description": "Landsat-8 low-resolution input",
+      "width": 160,
+      "height": 160,
+      "dtype": "float32",
+      "visual_channels": [
+        0,
+        1,
+        2
+      ],
+      "mean": [
+        0.054092560165650505,
+        0.07584981845846632,
+        0.09091076678628451
+      ],
+      "std": [
+        0.01949702549357034,
+        0.014761696630419647,
+        0.010859407157375501
+      ],
+      "min": [
+        0.033605813044769485,
+        0.055171430501284785,
+        0.0811473999769565
+      ],
+      "max": [
+        0.14919033390091083,
+        0.14431758390730648,
+        0.1453623218506432
+      ],
+      "num_channels": 3,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 1
+    },
+    "hr": {
+      "description": "Sentinel-2 high-resolution ground truth",
+      "width": 480,
+      "height": 480,
+      "dtype": "float32",
+      "visual_channels": [
+        0,
+        1,
+        2
+      ],
+      "mean": [
+        0.054092560165650505,
+        0.07584981845846632,
+        0.09091076678628451
+      ],
+      "std": [
+        0.01949702549357034,
+        0.014761696630419647,
+        0.010859407157375501
+      ],
+      "min": [
+        0.033605813044769485,
+        0.055171430501284785,
+        0.0811473999769565
+      ],
+      "max": [
+        0.14919033390091083,
+        0.14431758390730648,
+        0.1453623218506432
+      ],
+      "num_channels": 3,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 1
+    }
+  },
+  "num_train": 4180,
+  "num_valid": 1045,
+  "num_test": 100,
+  "num_total": 5325
+}

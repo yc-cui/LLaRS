@@ -1,0 +1,89 @@
+{
+  "path": "data_utils/dataset_files/sr/sen2venus_fgmanaus_dataset.json",
+  "dataset_name": "sr_sen2venus_fgmanaus",
+  "dataset_description": "Sen2Venus FGMANAUS super-resolution dataset: Sentinel-2 10 m to Venus 5 m",
+  "inputs": {
+    "lr": {
+      "description": "Sentinel-2 10 m low-resolution input",
+      "width": 128,
+      "height": 128,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        11.215519496372767,
+        181.54041253952752,
+        43.342100597563245,
+        2794.3216923304967
+      ],
+      "std": [
+        91.72953738574071,
+        146.571655665017,
+        191.74242020777902,
+        471.1842117610392
+      ],
+      "min": [
+        -25.049176113946096,
+        -10.23260143824986,
+        -36.79825746445429,
+        1128.6973586309523
+      ],
+      "max": [
+        316.1941506067912,
+        649.2850821358817,
+        618.22566704523,
+        4378.139224097842
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    },
+    "hr": {
+      "description": "Venus 5 m high-resolution ground truth",
+      "width": 256,
+      "height": 256,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        11.215519496372767,
+        181.54041253952752,
+        43.342100597563245,
+        2794.3216923304967
+      ],
+      "std": [
+        91.72953738574071,
+        146.571655665017,
+        191.74242020777902,
+        471.1842117610392
+      ],
+      "min": [
+        -25.049176113946096,
+        -10.23260143824986,
+        -36.79825746445429,
+        1128.6973586309523
+      ],
+      "max": [
+        316.1941506067912,
+        649.2850821358817,
+        618.22566704523,
+        4378.139224097842
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    }
+  },
+  "num_train": 84,
+  "num_valid": 20,
+  "num_test": 25,
+  "num_total": 129
+}

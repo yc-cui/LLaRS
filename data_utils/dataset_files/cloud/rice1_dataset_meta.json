@@ -1,0 +1,81 @@
+{
+  "path": "data_utils/dataset_files/cloud/rice1_dataset.json",
+  "dataset_name": "cloud_rice1",
+  "dataset_description": "RICE RICE1 cloud removal: cloudy RS input and cloud-free ground truth",
+  "inputs": {
+    "cloud": {
+      "description": "Cloudy input",
+      "width": 512,
+      "height": 512,
+      "dtype": "uint8",
+      "visual_channels": [
+        0,
+        1,
+        2
+      ],
+      "mean": [
+        121.67722795009612,
+        123.74285280704498,
+        122.48211175203323
+      ],
+      "std": [
+        43.19460001237453,
+        34.652569339204206,
+        28.761938048683938
+      ],
+      "min": [
+        96.28750004768372,
+        100.72812505960465,
+        100.27812498807907
+      ],
+      "max": [
+        156.275,
+        155.86875,
+        154.64375
+      ],
+      "num_channels": 3,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 255
+    },
+    "label": {
+      "description": "Cloud-free ground truth",
+      "width": 512,
+      "height": 512,
+      "dtype": "uint8",
+      "visual_channels": [
+        0,
+        1,
+        2
+      ],
+      "mean": [
+        121.67722795009612,
+        123.74285280704498,
+        122.48211175203323
+      ],
+      "std": [
+        43.19460001237453,
+        34.652569339204206,
+        28.761938048683938
+      ],
+      "min": [
+        96.28750004768372,
+        100.72812505960465,
+        100.27812498807907
+      ],
+      "max": [
+        156.275,
+        155.86875,
+        154.64375
+      ],
+      "num_channels": 3,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 255
+    }
+  },
+  "num_train": 320,
+  "num_valid": 80,
+  "num_test": 100,
+  "num_total": 500
+}

@@ -1,0 +1,89 @@
+{
+  "path": "data_utils/dataset_files/sr/sen2venus_jam2018_dataset.json",
+  "dataset_name": "sr_sen2venus_jam2018",
+  "dataset_description": "Sen2Venus JAM2018 super-resolution dataset: Sentinel-2 10 m to Venus 5 m",
+  "inputs": {
+    "lr": {
+      "description": "Sentinel-2 10 m low-resolution input",
+      "width": 128,
+      "height": 128,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        411.3397802615427,
+        667.8847796757242,
+        763.7731665589197,
+        2420.4488298646133
+      ],
+      "std": [
+        206.06915891446255,
+        261.27933718236125,
+        473.82750340364845,
+        664.2824994158245
+      ],
+      "min": [
+        123.39037311846678,
+        218.41435490746446,
+        136.68564281393927,
+        829.5157188201792
+      ],
+      "max": [
+        1272.3901089332571,
+        1685.5067274346857,
+        2223.309263724212,
+        4071.117933303517
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    },
+    "hr": {
+      "description": "Venus 5 m high-resolution ground truth",
+      "width": 256,
+      "height": 256,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        411.3397802615427,
+        667.8847796757242,
+        763.7731665589197,
+        2420.4488298646133
+      ],
+      "std": [
+        206.06915891446255,
+        261.27933718236125,
+        473.82750340364845,
+        664.2824994158245
+      ],
+      "min": [
+        123.39037311846678,
+        218.41435490746446,
+        136.68564281393927,
+        829.5157188201792
+      ],
+      "max": [
+        1272.3901089332571,
+        1685.5067274346857,
+        2223.309263724212,
+        4071.117933303517
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    }
+  },
+  "num_train": 1642,
+  "num_valid": 410,
+  "num_test": 512,
+  "num_total": 2564
+}

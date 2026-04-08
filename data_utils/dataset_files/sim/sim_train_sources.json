@@ -1,0 +1,12 @@
+{
+  "description": "Simulated dataset sources: clean images from real training datasets",
+  "sources": [
+    {"name": "cloud_sar_sen12mscr_spring", "input_key": "s2", "max_samples": 1250, "valid_max_samples": 125},
+    {"name": "cloud_sar_sen12mscr_summer", "input_key": "s2", "max_samples": 1250, "valid_max_samples": 125},
+    {"name": "cloud_sar_sen12mscr_fall", "input_key": "s2", "max_samples": 1250, "valid_max_samples": 125},
+    {"name": "cloud_sar_sen12mscr_winter", "input_key": "s2", "max_samples": 1250, "valid_max_samples": 125},
+    {"name": "pansharp_gaofen1", "input_key": "ms", "max_samples": 5000, "valid_max_samples": 500},
+    {"name": "pansharp_worldview2", "input_key": "ms", "max_samples": 5000, "valid_max_samples": 500},
+    {"name": "pansharp_worldview3", "input_key": "ms", "max_samples": 5000, "valid_max_samples": 500}
+  ]
+}

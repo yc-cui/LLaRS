@@ -1,0 +1,206 @@
+{
+  "train": [
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2013-5-30.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2013-5-30.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2014-2-10.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2014-2-10.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2014-2-10.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2014-2-10.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2014-4-15.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2014-4-15.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2014-4-15.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2014-4-15.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2014-9-6.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2014-9-6.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2014-9-6.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2014-9-6.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2015-2-13.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2015-2-13.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2015-2-13.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2015-2-13.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2015-3-17.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2015-3-17.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2015-3-17.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2015-3-17.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2015-5-4.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2015-5-4.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2015-5-4.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2015-5-4.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2015-6-21.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2015-6-21.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2015-6-21.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2015-6-21.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2015-7-7.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2015-7-7.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2015-7-7.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2015-7-7.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2015-9-25.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2015-9-25.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2015-9-25.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2015-9-25.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2016-4-20.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2016-4-20.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2016-4-20.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2016-4-20.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2016-6-7.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2016-6-7.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2016-6-7.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2016-6-7.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2016-8-26.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2016-8-26.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2016-8-26.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2016-8-26.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2016-10-13.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2016-10-13.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2016-10-13.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2016-10-13.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2017-2-18.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2017-2-18.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2017-2-18.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2017-2-18.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2017-5-25.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2017-5-25.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2017-5-25.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2017-5-25.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2017-6-10.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2017-6-10.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2017-6-10.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2017-6-10.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2017-7-28.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2017-7-28.tif"
+    }
+  ],
+  "valid": [
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2017-7-28.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2017-7-28.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2017-8-29.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2017-8-29.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2017-8-29.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2017-8-29.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2018-1-4.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2018-1-4.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2018-1-4.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2018-1-4.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2018-2-5.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2018-2-5.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2018-2-5.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2018-2-5.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2018-3-25.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2018-3-25.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2018-3-25.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2018-3-25.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2018-5-12.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2018-5-12.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2018-5-12.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2018-5-12.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2018-10-3.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2018-10-3.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2018-10-3.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2018-10-3.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2018-10-19.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2018-10-19.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2018-10-19.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2018-10-19.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2018-12-6.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2018-12-6.tif"
+    }
+  ],
+  "test": [
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2017-7-28.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2017-7-28.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2017-8-29.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2017-8-29.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2017-8-29.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2017-8-29.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2018-1-4.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2018-1-4.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2018-1-4.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2018-1-4.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2018-2-5.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2018-2-5.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2018-2-5.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2018-2-5.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2018-3-25.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2018-3-25.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2018-3-25.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2018-3-25.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2018-5-12.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2018-5-12.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2018-5-12.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2018-5-12.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2018-10-3.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2018-10-3.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2018-10-3.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2018-10-3.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2018-10-19.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2018-10-19.tif"
+    },
+    {
+      "hr_prev": "stf/data/Datasets/AHB/Landsat/L_2018-10-19.tif",
+      "lr_prev": "stf/data/Datasets/AHB/MODIS/M_2018-10-19.tif",
+      "hr_gt": "stf/data/Datasets/AHB/Landsat/L_2018-12-6.tif",
+      "lr_curr": "stf/data/Datasets/AHB/MODIS/M_2018-12-6.tif"
+    }
+  ]
+}

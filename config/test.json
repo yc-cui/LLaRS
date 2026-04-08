@@ -1,0 +1,34 @@
+{
+  "model": {
+    "name": "llars",
+    "kwargs": {}
+  },
+  "train_datasets": [
+    {
+      "name": "sim_denoise_gauss_005_iso",
+      "max_samples": 16,
+      "valid_max_samples": 8,
+      "max_vis_samples": 2,
+      "valid_max_vis_samples": 2,
+      "seed": 42
+    }
+  ],
+  "test_datasets": [],
+  "trainer": {
+    "max_epochs": 1,
+    "precision": "32-true",
+    "lr": 0.0002,
+    "batch_size": 2,
+    "num_workers": 0,
+    "devices": [0],
+    "strategy": null,
+    "check_val_every_n_epoch": 1,
+    "save_every_n_epochs": 1,
+    "min_save_epoch": 0,
+    "resume_ckpt_path": null,
+    "only_valid": false,
+    "only_test": false,
+    "valid_batch_size": 2,
+    "test_batch_size": 2
+  }
+}

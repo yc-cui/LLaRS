@@ -1,0 +1,75 @@
+{
+  "path": "data_utils/dataset_files/pansharp/quickbird_dataset.json",
+  "dataset_name": "pansharp_quickbird",
+  "dataset_description": "quickbird pansharpening: multispectral and panchromatic inputs",
+  "inputs": {
+    "ms": {
+      "description": "Multispectral input",
+      "width": 256,
+      "height": 256,
+      "dtype": "uint16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        325.47987854003907,
+        449.14735412597656,
+        280.05203399658205,
+        342.82088958740235
+      ],
+      "std": [
+        58.944144945029755,
+        95.23334722460551,
+        79.56653755186903,
+        112.44645215343252
+      ],
+      "min": [
+        303.575,
+        397.9642857687814,
+        221.51071434020997,
+        197.86428571428573
+      ],
+      "max": [
+        468.84285714285716,
+        743.0107142857142,
+        595.0999991280692,
+        784.5928567068918
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 2048
+    },
+    "pan": {
+      "description": "Panchromatic input",
+      "width": 1024,
+      "height": 1024,
+      "dtype": "uint16",
+      "visual_channels": [
+        0
+      ],
+      "mean": [
+        354.9442304611206
+      ],
+      "std": [
+        83.33115782118107
+      ],
+      "min": [
+        216.42820063999721
+      ],
+      "max": [
+        929.7297282627651
+      ],
+      "num_channels": 1,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 2048
+    }
+  },
+  "num_train": 280,
+  "num_valid": 70,
+  "num_test": 150,
+  "num_total": 500
+}

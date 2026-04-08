@@ -1,0 +1,81 @@
+{
+  "path": "data_utils/dataset_files/noise/sar_filter_dataset.json",
+  "dataset_name": "noise_sar_filter",
+  "dataset_description": "SAR despeckling filters: noisy SAR input and clean ground truth",
+  "inputs": {
+    "noisy": {
+      "description": "Noisy SAR input",
+      "width": 512,
+      "height": 512,
+      "dtype": "uint8",
+      "visual_channels": [
+        0,
+        1,
+        2
+      ],
+      "mean": [
+        81.49608750343323,
+        81.49608750343323,
+        81.49608750343323
+      ],
+      "std": [
+        50.035054506866935,
+        50.035054506866935,
+        50.035054506866935
+      ],
+      "min": [
+        22.764999914169312,
+        22.764999914169312,
+        22.764999914169312
+      ],
+      "max": [
+        189.45833332379658,
+        189.45833332379658,
+        189.45833332379658
+      ],
+      "num_channels": 3,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 255
+    },
+    "gt": {
+      "description": "Clean ground truth",
+      "width": 512,
+      "height": 512,
+      "dtype": "uint8",
+      "visual_channels": [
+        0,
+        1,
+        2
+      ],
+      "mean": [
+        81.49608750343323,
+        81.49608750343323,
+        81.49608750343323
+      ],
+      "std": [
+        50.035054506866935,
+        50.035054506866935,
+        50.035054506866935
+      ],
+      "min": [
+        22.764999914169312,
+        22.764999914169312,
+        22.764999914169312
+      ],
+      "max": [
+        189.45833332379658,
+        189.45833332379658,
+        189.45833332379658
+      ],
+      "num_channels": 3,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 255
+    }
+  },
+  "num_train": 1200,
+  "num_valid": 300,
+  "num_test": 100,
+  "num_total": 1600
+}

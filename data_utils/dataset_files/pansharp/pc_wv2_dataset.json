@@ -1,0 +1,106 @@
+{
+  "train": [],
+  "test": [
+    {
+      "h5_file": "pansharpening/PanCollection/test_wv2_multiExm1.h5",
+      "idx": 0,
+      "stem": "test_wv2_multiExm1_idx0"
+    },
+    {
+      "h5_file": "pansharpening/PanCollection/test_wv2_multiExm1.h5",
+      "idx": 1,
+      "stem": "test_wv2_multiExm1_idx1"
+    },
+    {
+      "h5_file": "pansharpening/PanCollection/test_wv2_multiExm1.h5",
+      "idx": 2,
+      "stem": "test_wv2_multiExm1_idx2"
+    },
+    {
+      "h5_file": "pansharpening/PanCollection/test_wv2_multiExm1.h5",
+      "idx": 3,
+      "stem": "test_wv2_multiExm1_idx3"
+    },
+    {
+      "h5_file": "pansharpening/PanCollection/test_wv2_multiExm1.h5",
+      "idx": 4,
+      "stem": "test_wv2_multiExm1_idx4"
+    },
+    {
+      "h5_file": "pansharpening/PanCollection/test_wv2_multiExm1.h5",
+      "idx": 5,
+      "stem": "test_wv2_multiExm1_idx5"
+    },
+    {
+      "h5_file": "pansharpening/PanCollection/test_wv2_multiExm1.h5",
+      "idx": 6,
+      "stem": "test_wv2_multiExm1_idx6"
+    },
+    {
+      "h5_file": "pansharpening/PanCollection/test_wv2_multiExm1.h5",
+      "idx": 7,
+      "stem": "test_wv2_multiExm1_idx7"
+    },
+    {
+      "h5_file": "pansharpening/PanCollection/test_wv2_multiExm1.h5",
+      "idx": 8,
+      "stem": "test_wv2_multiExm1_idx8"
+    },
+    {
+      "h5_file": "pansharpening/PanCollection/test_wv2_multiExm1.h5",
+      "idx": 9,
+      "stem": "test_wv2_multiExm1_idx9"
+    },
+    {
+      "h5_file": "pansharpening/PanCollection/test_wv2_multiExm1.h5",
+      "idx": 10,
+      "stem": "test_wv2_multiExm1_idx10"
+    },
+    {
+      "h5_file": "pansharpening/PanCollection/test_wv2_multiExm1.h5",
+      "idx": 11,
+      "stem": "test_wv2_multiExm1_idx11"
+    },
+    {
+      "h5_file": "pansharpening/PanCollection/test_wv2_multiExm1.h5",
+      "idx": 12,
+      "stem": "test_wv2_multiExm1_idx12"
+    },
+    {
+      "h5_file": "pansharpening/PanCollection/test_wv2_multiExm1.h5",
+      "idx": 13,
+      "stem": "test_wv2_multiExm1_idx13"
+    },
+    {
+      "h5_file": "pansharpening/PanCollection/test_wv2_multiExm1.h5",
+      "idx": 14,
+      "stem": "test_wv2_multiExm1_idx14"
+    },
+    {
+      "h5_file": "pansharpening/PanCollection/test_wv2_multiExm1.h5",
+      "idx": 15,
+      "stem": "test_wv2_multiExm1_idx15"
+    },
+    {
+      "h5_file": "pansharpening/PanCollection/test_wv2_multiExm1.h5",
+      "idx": 16,
+      "stem": "test_wv2_multiExm1_idx16"
+    },
+    {
+      "h5_file": "pansharpening/PanCollection/test_wv2_multiExm1.h5",
+      "idx": 17,
+      "stem": "test_wv2_multiExm1_idx17"
+    },
+    {
+      "h5_file": "pansharpening/PanCollection/test_wv2_multiExm1.h5",
+      "idx": 18,
+      "stem": "test_wv2_multiExm1_idx18"
+    },
+    {
+      "h5_file": "pansharpening/PanCollection/test_wv2_multiExm1.h5",
+      "idx": 19,
+      "stem": "test_wv2_multiExm1_idx19"
+    }
+  ],
+  "valid": []
+}

@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.temp/
+temp/
+logs/
+lightning_logs/
+*.ckpt
+.eggs/
+*.egg-info/
+dist/
+build/

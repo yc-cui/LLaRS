@@ -1,0 +1,13 @@
+{
+  "sources": [
+    {
+      "meta_file": "data_utils/dataset_files/cloud/sen12mscr_dataset_meta.json",
+      "input_key": "s2"
+    },
+    {
+      "meta_file": "data_utils/dataset_files/sr/oli2msi_dataset_meta.json",
+      "input_key": "hr"
+    }
+  ]
+}
+

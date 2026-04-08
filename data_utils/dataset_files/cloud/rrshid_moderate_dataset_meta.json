@@ -1,0 +1,81 @@
+{
+  "path": "data_utils/dataset_files/cloud/rrshid_moderate_dataset.json",
+  "dataset_name": "haze_rrshid_moderate",
+  "dataset_description": "RRSHID moderate_fog remote sensing dehazing",
+  "inputs": {
+    "hazy": {
+      "description": "Hazy RS input",
+      "width": 256,
+      "height": 256,
+      "dtype": "uint8",
+      "visual_channels": [
+        0,
+        1,
+        2
+      ],
+      "mean": [
+        179.99732126955126,
+        152.7822512642282,
+        149.1334352336946
+      ],
+      "std": [
+        30.519337296383426,
+        18.700163294082312,
+        19.721597861469316
+      ],
+      "min": [
+        149.6393442544781,
+        126.03176229508196,
+        121.2592213036584
+      ],
+      "max": [
+        225.50409836065575,
+        197.30737704918033,
+        197.36782786885246
+      ],
+      "num_channels": 3,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 255
+    },
+    "gt": {
+      "description": "Haze-free ground truth",
+      "width": 256,
+      "height": 256,
+      "dtype": "uint8",
+      "visual_channels": [
+        0,
+        1,
+        2
+      ],
+      "mean": [
+        179.99732126955126,
+        152.7822512642282,
+        149.1334352336946
+      ],
+      "std": [
+        30.519337296383426,
+        18.700163294082312,
+        19.721597861469316
+      ],
+      "min": [
+        149.6393442544781,
+        126.03176229508196,
+        121.2592213036584
+      ],
+      "max": [
+        225.50409836065575,
+        197.30737704918033,
+        197.36782786885246
+      ],
+      "num_channels": 3,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 255
+    }
+  },
+  "num_train": 976,
+  "num_valid": 244,
+  "num_test": 306,
+  "num_total": 1526
+}

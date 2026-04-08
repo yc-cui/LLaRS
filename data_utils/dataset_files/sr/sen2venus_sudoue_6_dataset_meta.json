@@ -1,0 +1,89 @@
+{
+  "path": "data_utils/dataset_files/sr/sen2venus_sudoue_6_dataset.json",
+  "dataset_name": "sr_sen2venus_sudoue_6",
+  "dataset_description": "Sen2Venus SUDOUE-6 super-resolution dataset: Sentinel-2 10 m to Venus 5 m",
+  "inputs": {
+    "lr": {
+      "description": "Sentinel-2 10 m low-resolution input",
+      "width": 128,
+      "height": 128,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        341.02280585073066,
+        579.6992764573896,
+        569.3561378268572,
+        2447.1667334047015
+      ],
+      "std": [
+        224.4950355484038,
+        272.48816585818633,
+        392.6457902614096,
+        663.6435195904862
+      ],
+      "min": [
+        57.210665239746405,
+        160.3564123088844,
+        83.76066977921168,
+        1003.720934111159
+      ],
+      "max": [
+        1198.165267053669,
+        1566.5166963059753,
+        1897.1674947194215,
+        4083.367363362682
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    },
+    "hr": {
+      "description": "Venus 5 m high-resolution ground truth",
+      "width": 256,
+      "height": 256,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        341.02280585073066,
+        579.6992764573896,
+        569.3561378268572,
+        2447.1667334047015
+      ],
+      "std": [
+        224.4950355484038,
+        272.48816585818633,
+        392.6457902614096,
+        663.6435195904862
+      ],
+      "min": [
+        57.210665239746405,
+        160.3564123088844,
+        83.76066977921168,
+        1003.720934111159
+      ],
+      "max": [
+        1198.165267053669,
+        1566.5166963059753,
+        1897.1674947194215,
+        4083.367363362682
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    }
+  },
+  "num_train": 1559,
+  "num_valid": 389,
+  "num_test": 487,
+  "num_total": 2435
+}

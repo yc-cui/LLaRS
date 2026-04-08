@@ -1,0 +1,114 @@
+{
+  "path": "data_utils/dataset_files/pansharp/pc_gf2_dataset.json",
+  "dataset_name": "pansharp_pc_gf2",
+  "dataset_description": "PanCollection GaoFen-2 pansharpening",
+  "inputs": {
+    "pan": {
+      "description": "Panchromatic HR input",
+      "width": 64,
+      "height": 64,
+      "dtype": "float64",
+      "visual_channels": [
+        0
+      ],
+      "mean": [
+        250.01642433464733
+      ],
+      "std": [
+        80.2533695507408
+      ],
+      "min": [
+        136.08884432678224
+      ],
+      "max": [
+        519.5230774597168
+      ],
+      "num_channels": 1,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 2048
+    },
+    "gt": {
+      "description": "HR multispectral ground truth",
+      "width": 64,
+      "height": 64,
+      "dtype": "float64",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        449.9445992117794,
+        308.7550781037513,
+        238.37111860632325,
+        220.30619867842714
+      ],
+      "std": [
+        70.55254498464024,
+        63.44576993076723,
+        70.92713012113222,
+        66.46639960401626
+      ],
+      "min": [
+        380.01445041503905,
+        237.70792276611328,
+        154.15661352386473,
+        110.20693213653564
+      ],
+      "max": [
+        618.8401654724121,
+        474.3573717102051,
+        422.8238723022461,
+        359.81753129119875
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 2048
+    },
+    "lms": {
+      "description": "Upsampled LR multispectral image",
+      "width": 64,
+      "height": 64,
+      "dtype": "float64",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        449.9445992117794,
+        308.7550781037513,
+        238.37111860632325,
+        220.30619867842714
+      ],
+      "std": [
+        70.55254498464024,
+        63.44576993076723,
+        70.92713012113222,
+        66.46639960401626
+      ],
+      "min": [
+        380.01445041503905,
+        237.70792276611328,
+        154.15661352386473,
+        110.20693213653564
+      ],
+      "max": [
+        618.8401654724121,
+        474.3573717102051,
+        422.8238723022461,
+        359.81753129119875
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 2048
+    }
+  },
+  "num_train": 19809,
+  "num_valid": 2201,
+  "num_test": 20,
+  "num_total": 22030
+}

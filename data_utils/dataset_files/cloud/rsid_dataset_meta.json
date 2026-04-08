@@ -1,0 +1,81 @@
+{
+  "path": "data_utils/dataset_files/cloud/rsid_dataset.json",
+  "dataset_name": "haze_rsid",
+  "dataset_description": "RSID remote sensing dehazing",
+  "inputs": {
+    "hazy": {
+      "description": "Hazy RS input",
+      "width": 256,
+      "height": 256,
+      "dtype": "uint8",
+      "visual_channels": [
+        0,
+        1,
+        2
+      ],
+      "mean": [
+        176.69469492435456,
+        176.5720463514328,
+        173.94928441047668
+      ],
+      "std": [
+        33.25258071978889,
+        31.729108489396605,
+        31.24296494433484
+      ],
+      "min": [
+        125.27187489271164,
+        127.0359375,
+        126.8046875
+      ],
+      "max": [
+        236.20625,
+        235.815625,
+        234.7453125
+      ],
+      "num_channels": 3,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 255
+    },
+    "gt": {
+      "description": "Haze-free ground truth",
+      "width": 256,
+      "height": 256,
+      "dtype": "uint8",
+      "visual_channels": [
+        0,
+        1,
+        2
+      ],
+      "mean": [
+        176.69469492435456,
+        176.5720463514328,
+        173.94928441047668
+      ],
+      "std": [
+        33.25258071978889,
+        31.729108489396605,
+        31.24296494433484
+      ],
+      "min": [
+        125.27187489271164,
+        127.0359375,
+        126.8046875
+      ],
+      "max": [
+        236.20625,
+        235.815625,
+        234.7453125
+      ],
+      "num_channels": 3,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 255
+    }
+  },
+  "num_train": 640,
+  "num_valid": 160,
+  "num_test": 200,
+  "num_total": 1000
+}

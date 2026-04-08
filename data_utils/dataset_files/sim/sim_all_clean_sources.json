@@ -1,0 +1,10 @@
+{
+  "description": "General simulated-dataset source config: clean images from all available real datasets",
+  "sources": [
+    {"name": "pansharp_gaofen1", "input_key": "ms"},
+    {"name": "pansharp_worldview2", "input_key": "ms"},
+    {"name": "pansharp_worldview3", "input_key": "ms"},
+    {"name": "pansharp_worldview4", "input_key": "ms"},
+    {"name": "cloud_sar_sen12mscr_spring", "input_key": "s2"}
+  ]
+}

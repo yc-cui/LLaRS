@@ -1,0 +1,81 @@
+{
+  "path": "data_utils/dataset_files/cloud/cuhk_cr2_dataset.json",
+  "dataset_name": "cloud_cuhk_cr2",
+  "dataset_description": "C-CUHK CUHK-CR2 cloud removal: cloudy RS input and cloud-free ground truth",
+  "inputs": {
+    "cloud": {
+      "description": "Cloudy input",
+      "width": 512,
+      "height": 512,
+      "dtype": "uint8",
+      "visual_channels": [
+        0,
+        1,
+        2
+      ],
+      "mean": [
+        151.8126175968096,
+        151.65910256473467,
+        151.58616893205138
+      ],
+      "std": [
+        28.153450523175486,
+        28.32784144994744,
+        28.359982237877325
+      ],
+      "min": [
+        131.16434540389972,
+        131.3426183844011,
+        130.50696378830082
+      ],
+      "max": [
+        206.15320334261838,
+        208.4568245125348,
+        212.32590529247912
+      ],
+      "num_channels": 3,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 255
+    },
+    "label": {
+      "description": "Cloud-free ground truth",
+      "width": 512,
+      "height": 512,
+      "dtype": "uint8",
+      "visual_channels": [
+        0,
+        1,
+        2
+      ],
+      "mean": [
+        151.8126175968096,
+        151.65910256473467,
+        151.58616893205138
+      ],
+      "std": [
+        28.153450523175486,
+        28.32784144994744,
+        28.359982237877325
+      ],
+      "min": [
+        131.16434540389972,
+        131.3426183844011,
+        130.50696378830082
+      ],
+      "max": [
+        206.15320334261838,
+        208.4568245125348,
+        212.32590529247912
+      ],
+      "num_channels": 3,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 255
+    }
+  },
+  "num_train": 359,
+  "num_valid": 89,
+  "num_test": 111,
+  "num_total": 559
+}

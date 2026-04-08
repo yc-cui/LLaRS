@@ -1,0 +1,75 @@
+{
+  "path": "data_utils/dataset_files/pansharp/worldview4_dataset.json",
+  "dataset_name": "pansharp_worldview4",
+  "dataset_description": "worldview4 pansharpening: multispectral and panchromatic inputs",
+  "inputs": {
+    "ms": {
+      "description": "Multispectral input",
+      "width": 256,
+      "height": 256,
+      "dtype": "uint16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        385.56400329589843,
+        455.70402923583987,
+        292.64853729248046,
+        603.9076846313477
+      ],
+      "std": [
+        155.2207112550651,
+        231.47659701775382,
+        186.4557846312733,
+        368.97307773606286
+      ],
+      "min": [
+        290.34285714285716,
+        281.9964283534459,
+        131.33928527832032,
+        190.9750004359654
+      ],
+      "max": [
+        763.7892865862165,
+        984.8107142857143,
+        748.4785705566406,
+        1298.6142857142856
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 2048
+    },
+    "pan": {
+      "description": "Panchromatic input",
+      "width": 1024,
+      "height": 1024,
+      "dtype": "uint16",
+      "visual_channels": [
+        0
+      ],
+      "mean": [
+        397.34672172546385
+      ],
+      "std": [
+        180.96415669721733
+      ],
+      "min": [
+        212.25699947902135
+      ],
+      "max": [
+        991.4254662649972
+      ],
+      "num_channels": 1,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 2048
+    }
+  },
+  "num_train": 280,
+  "num_valid": 70,
+  "num_test": 150,
+  "num_total": 500
+}

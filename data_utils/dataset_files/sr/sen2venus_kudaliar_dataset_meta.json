@@ -1,0 +1,89 @@
+{
+  "path": "data_utils/dataset_files/sr/sen2venus_kudaliar_dataset.json",
+  "dataset_name": "sr_sen2venus_kudaliar",
+  "dataset_description": "Sen2Venus KUDALIAR super-resolution dataset: Sentinel-2 10 m to Venus 5 m",
+  "inputs": {
+    "lr": {
+      "description": "Sentinel-2 10 m low-resolution input",
+      "width": 128,
+      "height": 128,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        539.3379984104887,
+        864.9138629191054,
+        1112.3220660441054,
+        2550.688559254446
+      ],
+      "std": [
+        241.00165041638115,
+        342.4170184640447,
+        616.0922813055257,
+        685.763123090875
+      ],
+      "min": [
+        169.83278649611137,
+        341.7521780289913,
+        180.4696294939085,
+        880.4769999645306
+      ],
+      "max": [
+        1485.4117213105121,
+        2005.3785019986685,
+        2699.440542811761,
+        4431.79042471339
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    },
+    "hr": {
+      "description": "Venus 5 m high-resolution ground truth",
+      "width": 256,
+      "height": 256,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        539.3379984104887,
+        864.9138629191054,
+        1112.3220660441054,
+        2550.688559254446
+      ],
+      "std": [
+        241.00165041638115,
+        342.4170184640447,
+        616.0922813055257,
+        685.763123090875
+      ],
+      "min": [
+        169.83278649611137,
+        341.7521780289913,
+        180.4696294939085,
+        880.4769999645306
+      ],
+      "max": [
+        1485.4117213105121,
+        2005.3785019986685,
+        2699.440542811761,
+        4431.79042471339
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    }
+  },
+  "num_train": 4653,
+  "num_valid": 1163,
+  "num_test": 1453,
+  "num_total": 7269
+}

@@ -1,0 +1,2008 @@
+{
+  "train": [
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/92.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/92.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/180.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/180.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/307.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/307.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/490.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/490.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/363.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/363.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/22.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/22.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/413.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/413.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/361.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/361.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/437.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/437.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/333.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/333.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/217.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/217.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/207.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/207.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/462.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/462.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/5.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/5.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/396.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/396.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/283.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/283.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/156.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/156.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/384.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/384.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/385.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/385.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/70.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/70.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/154.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/154.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/357.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/357.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/442.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/442.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/65.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/65.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/103.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/103.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/327.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/327.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/263.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/263.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/484.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/484.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/135.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/135.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/106.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/106.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/488.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/488.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/346.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/346.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/251.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/251.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/201.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/201.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/2.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/2.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/326.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/326.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/94.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/94.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/309.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/309.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/449.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/449.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/474.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/474.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/110.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/110.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/14.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/14.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/40.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/40.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/89.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/89.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/460.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/460.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/259.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/259.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/274.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/274.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/258.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/258.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/134.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/134.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/299.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/299.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/12.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/12.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/371.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/371.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/143.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/143.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/171.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/171.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/481.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/481.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/90.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/90.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/483.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/483.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/257.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/257.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/109.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/109.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/374.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/374.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/329.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/329.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/317.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/317.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/131.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/131.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/88.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/88.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/163.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/163.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/266.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/266.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/275.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/275.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/447.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/447.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/496.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/496.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/476.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/476.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/352.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/352.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/345.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/345.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/300.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/300.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/316.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/316.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/136.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/136.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/238.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/238.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/112.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/112.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/147.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/147.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/287.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/287.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/16.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/16.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/38.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/38.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/83.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/83.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/170.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/170.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/241.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/241.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/431.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/431.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/245.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/245.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/373.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/373.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/208.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/208.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/426.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/426.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/107.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/107.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/288.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/288.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/98.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/98.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/177.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/177.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/24.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/24.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/8.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/8.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/250.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/250.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/174.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/174.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/424.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/424.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/68.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/68.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/429.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/429.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/223.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/223.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/125.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/125.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/335.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/335.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/144.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/144.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/23.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/23.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/458.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/458.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/438.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/438.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/339.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/339.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/34.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/34.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/209.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/209.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/67.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/67.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/60.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/60.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/81.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/81.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/158.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/158.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/26.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/26.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/113.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/113.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/304.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/304.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/108.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/108.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/344.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/344.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/104.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/104.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/69.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/69.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/439.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/439.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/347.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/347.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/191.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/191.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/470.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/470.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/52.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/52.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/443.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/443.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/184.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/184.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/115.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/115.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/340.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/340.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/479.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/479.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/301.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/301.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/240.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/240.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/51.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/51.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/126.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/126.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/13.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/13.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/305.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/305.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/56.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/56.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/19.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/19.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/364.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/364.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/291.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/291.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/314.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/314.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/383.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/383.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/45.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/45.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/412.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/412.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/308.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/308.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/140.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/140.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/487.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/487.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/434.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/434.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/341.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/341.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/382.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/382.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/466.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/466.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/249.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/249.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/311.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/311.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/127.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/127.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/46.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/46.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/271.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/271.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/415.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/415.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/141.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/141.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/325.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/325.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/416.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/416.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/212.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/212.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/277.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/277.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/6.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/6.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/181.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/181.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/7.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/7.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/284.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/284.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/467.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/467.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/213.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/213.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/486.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/486.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/33.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/33.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/252.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/252.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/121.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/121.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/350.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/350.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/72.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/72.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/105.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/105.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/272.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/272.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/3.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/3.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/234.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/234.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/282.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/282.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/321.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/321.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/417.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/417.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/366.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/366.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/463.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/463.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/216.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/216.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/152.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/152.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/74.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/74.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/0.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/0.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/246.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/246.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/20.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/20.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/268.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/268.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/427.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/427.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/430.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/430.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/394.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/394.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/450.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/450.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/408.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/408.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/169.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/169.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/322.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/322.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/491.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/491.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/279.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/279.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/495.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/495.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/356.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/356.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/312.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/312.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/76.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/76.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/172.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/172.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/411.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/411.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/82.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/82.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/50.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/50.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/494.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/494.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/17.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/17.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/111.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/111.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/353.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/353.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/133.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/133.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/85.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/85.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/117.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/117.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/39.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/39.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/161.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/161.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/302.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/302.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/454.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/454.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/164.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/164.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/407.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/407.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/367.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/367.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/31.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/31.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/289.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/289.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/471.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/471.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/205.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/205.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/167.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/167.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/421.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/421.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/375.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/375.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/27.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/27.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/388.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/388.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/75.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/75.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/290.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/290.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/196.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/196.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/214.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/214.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/118.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/118.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/58.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/58.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/446.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/446.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/420.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/420.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/187.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/187.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/230.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/230.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/260.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/260.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/380.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/380.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/392.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/392.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/162.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/162.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/248.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/248.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/498.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/498.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/77.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/77.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/203.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/203.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/11.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/11.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/48.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/48.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/155.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/155.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/448.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/448.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/403.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/403.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/178.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/178.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/129.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/129.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/482.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/482.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/478.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/478.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/400.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/400.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/206.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/206.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/32.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/32.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/44.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/44.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/62.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/62.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/409.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/409.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/336.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/336.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/179.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/179.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/61.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/61.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/29.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/29.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/229.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/229.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/145.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/145.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/64.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/64.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/444.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/444.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/397.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/397.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/386.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/386.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/262.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/262.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/414.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/414.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/247.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/247.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/485.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/485.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/461.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/461.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/328.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/328.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/342.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/342.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/244.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/244.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/477.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/477.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/390.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/390.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/79.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/79.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/200.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/200.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/475.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/475.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/130.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/130.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/122.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/122.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/297.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/297.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/128.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/128.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/457.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/457.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/43.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/43.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/377.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/377.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/296.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/296.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/182.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/182.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/237.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/237.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/348.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/348.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/87.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/87.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/146.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/146.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/376.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/376.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/343.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/343.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/369.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/369.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/493.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/493.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/278.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/278.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/292.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/292.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/280.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/280.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/30.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/30.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/198.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/198.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/165.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/165.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/337.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/337.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/472.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/472.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/372.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/372.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/124.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/124.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/66.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/66.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/285.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/285.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/149.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/149.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/137.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/137.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/360.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/360.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/334.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/334.png"
+    }
+  ],
+  "test": [
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/219.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/219.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/186.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/186.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/351.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/351.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/399.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/399.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/148.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/148.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/370.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/370.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/404.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/404.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/324.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/324.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/220.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/220.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/391.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/391.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/261.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/261.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/185.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/185.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/86.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/86.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/210.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/210.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/221.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/221.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/119.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/119.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/84.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/84.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/358.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/358.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/1.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/1.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/425.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/425.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/9.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/9.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/398.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/398.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/440.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/440.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/28.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/28.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/236.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/236.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/101.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/101.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/432.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/432.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/267.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/267.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/294.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/294.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/419.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/419.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/303.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/303.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/189.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/189.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/359.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/359.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/239.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/239.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/21.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/21.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/150.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/150.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/298.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/298.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/320.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/320.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/102.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/102.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/114.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/114.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/313.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/313.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/231.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/231.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/435.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/435.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/218.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/218.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/139.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/139.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/469.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/469.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/235.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/235.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/35.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/35.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/80.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/80.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/499.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/499.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/195.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/195.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/468.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/468.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/465.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/465.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/37.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/37.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/406.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/406.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/168.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/168.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/225.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/225.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/63.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/63.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/73.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/73.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/142.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/142.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/362.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/362.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/389.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/389.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/379.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/379.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/194.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/194.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/224.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/224.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/202.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/202.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/78.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/78.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/204.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/204.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/211.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/211.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/456.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/456.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/273.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/273.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/418.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/418.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/215.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/215.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/153.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/153.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/393.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/393.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/233.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/233.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/192.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/192.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/242.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/242.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/323.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/323.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/269.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/269.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/151.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/151.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/227.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/227.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/433.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/433.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/330.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/330.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/226.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/226.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/100.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/100.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/222.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/222.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/445.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/445.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/441.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/441.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/306.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/306.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/4.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/4.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/123.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/123.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/497.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/497.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/452.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/452.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/36.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/36.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/95.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/95.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/405.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/405.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/193.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/193.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/423.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/423.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/59.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/59.png"
+    }
+  ],
+  "valid": [
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/451.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/451.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/256.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/256.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/265.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/265.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/183.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/183.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/199.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/199.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/243.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/243.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/286.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/286.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/422.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/422.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/381.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/381.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/254.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/254.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/71.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/71.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/197.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/197.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/49.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/49.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/25.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/25.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/459.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/459.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/18.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/18.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/387.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/387.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/96.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/96.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/10.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/10.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/295.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/295.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/173.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/173.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/402.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/402.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/401.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/401.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/138.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/138.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/159.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/159.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/166.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/166.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/453.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/453.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/188.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/188.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/54.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/54.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/47.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/47.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/42.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/42.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/176.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/176.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/331.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/331.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/365.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/365.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/355.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/355.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/310.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/310.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/332.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/332.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/318.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/318.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/410.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/410.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/97.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/97.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/354.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/354.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/436.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/436.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/255.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/255.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/293.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/293.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/53.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/53.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/253.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/253.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/57.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/57.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/175.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/175.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/492.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/492.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/464.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/464.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/55.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/55.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/270.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/270.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/315.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/315.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/232.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/232.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/15.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/15.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/160.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/160.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/349.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/349.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/157.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/157.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/276.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/276.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/41.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/41.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/120.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/120.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/480.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/480.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/93.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/93.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/338.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/338.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/228.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/228.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/428.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/428.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/281.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/281.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/132.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/132.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/264.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/264.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/395.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/395.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/319.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/319.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/116.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/116.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/455.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/455.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/91.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/91.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/489.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/489.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/473.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/473.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/368.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/368.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/378.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/378.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/99.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/99.png"
+    },
+    {
+      "cloud": "cloud/RICE_DATASET/RICE1/cloud/190.png",
+      "label": "cloud/RICE_DATASET/RICE1/label/190.png"
+    }
+  ]
+}

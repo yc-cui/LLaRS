@@ -1,0 +1,110 @@
+{
+  "train": [
+    {
+      "hr_prev": "stf/data/LGC/Landsat/20040416_TM.tif",
+      "lr_prev": "stf/data/LGC/MODIS/MOD09GA_A2004107.sur_refl.tif",
+      "hr_gt": "stf/data/LGC/Landsat/20040502_TM.tif",
+      "lr_curr": "stf/data/LGC/MODIS/MOD09GA_A2004123.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/LGC/Landsat/20040502_TM.tif",
+      "lr_prev": "stf/data/LGC/MODIS/MOD09GA_A2004123.sur_refl.tif",
+      "hr_gt": "stf/data/LGC/Landsat/20040705_TM.tif",
+      "lr_curr": "stf/data/LGC/MODIS/MOD09GA_A2004187.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/LGC/Landsat/20040705_TM.tif",
+      "lr_prev": "stf/data/LGC/MODIS/MOD09GA_A2004187.sur_refl.tif",
+      "hr_gt": "stf/data/LGC/Landsat/20040806_TM.tif",
+      "lr_curr": "stf/data/LGC/MODIS/MOD09GA_A2004219.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/LGC/Landsat/20040806_TM.tif",
+      "lr_prev": "stf/data/LGC/MODIS/MOD09GA_A2004219.sur_refl.tif",
+      "hr_gt": "stf/data/LGC/Landsat/20040822_TM.tif",
+      "lr_curr": "stf/data/LGC/MODIS/MOD09GA_A2004235.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/LGC/Landsat/20040822_TM.tif",
+      "lr_prev": "stf/data/LGC/MODIS/MOD09GA_A2004235.sur_refl.tif",
+      "hr_gt": "stf/data/LGC/Landsat/20041025_TM.tif",
+      "lr_curr": "stf/data/LGC/MODIS/MOD09GA_A2004299.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/LGC/Landsat/20041025_TM.tif",
+      "lr_prev": "stf/data/LGC/MODIS/MOD09GA_A2004299.sur_refl.tif",
+      "hr_gt": "stf/data/LGC/Landsat/20041126_TM.tif",
+      "lr_curr": "stf/data/LGC/MODIS/MOD09GA_A2004331.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/LGC/Landsat/20041126_TM.tif",
+      "lr_prev": "stf/data/LGC/MODIS/MOD09GA_A2004331.sur_refl.tif",
+      "hr_gt": "stf/data/LGC/Landsat/20041212_TM.tif",
+      "lr_curr": "stf/data/LGC/MODIS/MOD09GA_A2004347.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/LGC/Landsat/20041212_TM.tif",
+      "lr_prev": "stf/data/LGC/MODIS/MOD09GA_A2004347.sur_refl.tif",
+      "hr_gt": "stf/data/LGC/Landsat/20041228_TM.tif",
+      "lr_curr": "stf/data/LGC/MODIS/MOD09GA_A2004363.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/LGC/Landsat/20041228_TM.tif",
+      "lr_prev": "stf/data/LGC/MODIS/MOD09GA_A2004363.sur_refl.tif",
+      "hr_gt": "stf/data/LGC/Landsat/20050113_TM.tif",
+      "lr_curr": "stf/data/LGC/MODIS/MOD09GA_A2005013.sur_refl.tif"
+    }
+  ],
+  "valid": [
+    {
+      "hr_prev": "stf/data/LGC/Landsat/20050113_TM.tif",
+      "lr_prev": "stf/data/LGC/MODIS/MOD09GA_A2005013.sur_refl.tif",
+      "hr_gt": "stf/data/LGC/Landsat/20050129_TM.tif",
+      "lr_curr": "stf/data/LGC/MODIS/MOD09GA_A2005029.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/LGC/Landsat/20050129_TM.tif",
+      "lr_prev": "stf/data/LGC/MODIS/MOD09GA_A2005029.sur_refl.tif",
+      "hr_gt": "stf/data/LGC/Landsat/20050214_TM.tif",
+      "lr_curr": "stf/data/LGC/MODIS/MOD09GA_A2005045.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/LGC/Landsat/20050214_TM.tif",
+      "lr_prev": "stf/data/LGC/MODIS/MOD09GA_A2005045.sur_refl.tif",
+      "hr_gt": "stf/data/LGC/Landsat/20050302_TM.tif",
+      "lr_curr": "stf/data/LGC/MODIS/MOD09GA_A2005061.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/LGC/Landsat/20050302_TM.tif",
+      "lr_prev": "stf/data/LGC/MODIS/MOD09GA_A2005061.sur_refl.tif",
+      "hr_gt": "stf/data/LGC/Landsat/20050403_TM.tif",
+      "lr_curr": "stf/data/LGC/MODIS/MOD09GA_A2005093.sur_refl.tif"
+    }
+  ],
+  "test": [
+    {
+      "hr_prev": "stf/data/LGC/Landsat/20050113_TM.tif",
+      "lr_prev": "stf/data/LGC/MODIS/MOD09GA_A2005013.sur_refl.tif",
+      "hr_gt": "stf/data/LGC/Landsat/20050129_TM.tif",
+      "lr_curr": "stf/data/LGC/MODIS/MOD09GA_A2005029.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/LGC/Landsat/20050129_TM.tif",
+      "lr_prev": "stf/data/LGC/MODIS/MOD09GA_A2005029.sur_refl.tif",
+      "hr_gt": "stf/data/LGC/Landsat/20050214_TM.tif",
+      "lr_curr": "stf/data/LGC/MODIS/MOD09GA_A2005045.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/LGC/Landsat/20050214_TM.tif",
+      "lr_prev": "stf/data/LGC/MODIS/MOD09GA_A2005045.sur_refl.tif",
+      "hr_gt": "stf/data/LGC/Landsat/20050302_TM.tif",
+      "lr_curr": "stf/data/LGC/MODIS/MOD09GA_A2005061.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/LGC/Landsat/20050302_TM.tif",
+      "lr_prev": "stf/data/LGC/MODIS/MOD09GA_A2005061.sur_refl.tif",
+      "hr_gt": "stf/data/LGC/Landsat/20050403_TM.tif",
+      "lr_curr": "stf/data/LGC/MODIS/MOD09GA_A2005093.sur_refl.tif"
+    }
+  ]
+}

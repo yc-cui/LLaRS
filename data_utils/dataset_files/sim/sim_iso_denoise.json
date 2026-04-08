@@ -1,0 +1,7 @@
+{
+  "description": "Isolated sources for denoising: pansharp_gaofen1(ms) + cloud_sar_spring(s2)",
+  "sources": [
+    {"name": "pansharp_gaofen1", "input_key": "ms"},
+    {"name": "cloud_sar_sen12mscr_spring", "input_key": "s2"}
+  ]
+}

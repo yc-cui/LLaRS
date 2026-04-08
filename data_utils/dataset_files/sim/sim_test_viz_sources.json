@@ -1,0 +1,11 @@
+{
+  "description": "Visualization test set: clean images across real datasets to verify visual_channels",
+  "sources": [
+    {"name": "pansharp_gaofen1", "input_key": "gt", "max_samples": 10},
+    {"name": "pansharp_worldview2", "input_key": "gt", "max_samples": 10},
+    {"name": "pansharp_worldview3", "input_key": "gt", "max_samples": 10},
+    {"name": "pansharp_worldview4", "input_key": "gt", "max_samples": 10},
+    {"name": "pansharp_ikonos", "input_key": "gt", "max_samples": 10},
+    {"name": "pansharp_quickbird", "input_key": "gt", "max_samples": 10}
+  ]
+}

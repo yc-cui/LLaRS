@@ -1,0 +1,7 @@
+{
+  "description": "Isolated sources for histogram equalization: pansharp_ikonos(ms) + pansharp_worldview4(pan)",
+  "sources": [
+    {"name": "pansharp_ikonos", "input_key": "ms"},
+    {"name": "pansharp_gaofen1", "input_key": "pan"}
+  ]
+}

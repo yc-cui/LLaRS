@@ -1,0 +1,7 @@
+{
+  "description": "Isolated sources for brightness enhancement: pansharp_pc_gf2(gt) + pansharp_pc_qb(gt)",
+  "sources": [
+    {"name": "pansharp_pc_gf2", "input_key": "gt"},
+    {"name": "pansharp_pc_qb", "input_key": "gt"}
+  ]
+}

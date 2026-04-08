@@ -1,0 +1,2680 @@
+{
+  "train": [
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/303.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/303.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/82.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/82.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/434.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/434.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/393.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/393.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/195.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/195.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/235.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/235.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/276.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/276.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/109.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/109.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/8.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/8.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/296.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/296.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/373.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/373.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/372.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/372.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/474.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/474.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/391.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/391.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/260.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/260.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/65.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/65.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/445.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/445.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/516.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/516.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/86.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/86.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/428.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/428.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/419.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/419.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/147.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/147.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/228.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/228.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/161.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/161.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/5.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/5.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/386.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/386.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/399.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/399.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/61.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/61.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/363.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/363.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/122.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/122.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/473.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/473.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/40.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/40.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/518.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/518.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/169.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/169.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/224.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/224.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/485.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/485.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/55.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/55.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/164.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/164.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/184.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/184.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/155.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/155.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/51.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/51.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/92.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/92.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/245.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/245.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/247.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/247.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/215.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/215.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/376.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/376.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/482.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/482.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/64.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/64.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/320.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/320.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/253.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/253.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/243.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/243.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/100.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/100.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/115.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/115.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/319.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/319.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/364.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/364.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/168.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/168.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/477.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/477.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/411.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/411.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/328.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/328.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/405.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/405.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/291.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/291.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/7.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/7.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/159.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/159.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/293.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/293.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/219.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/219.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/229.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/229.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/440.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/440.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/250.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/250.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/506.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/506.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/270.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/270.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/241.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/241.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/370.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/370.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/430.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/430.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/479.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/479.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/57.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/57.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/23.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/23.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/527.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/527.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/192.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/192.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/327.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/327.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/70.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/70.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/433.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/433.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/415.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/415.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/114.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/114.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/69.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/69.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/117.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/117.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/216.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/216.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/279.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/279.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/469.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/469.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/387.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/387.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/436.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/436.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/4.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/4.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/233.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/233.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/32.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/32.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/522.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/522.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/525.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/525.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/385.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/385.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/95.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/95.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/39.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/39.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/269.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/269.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/52.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/52.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/111.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/111.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/338.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/338.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/167.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/167.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/349.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/349.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/134.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/134.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/309.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/309.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/66.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/66.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/361.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/361.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/330.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/330.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/306.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/306.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/268.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/268.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/26.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/26.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/383.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/383.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/467.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/467.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/521.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/521.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/424.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/424.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/28.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/28.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/37.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/37.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/189.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/189.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/406.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/406.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/335.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/335.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/59.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/59.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/112.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/112.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/381.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/381.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/299.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/299.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/417.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/417.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/501.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/501.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/446.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/446.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/93.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/93.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/137.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/137.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/153.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/153.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/295.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/295.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/272.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/272.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/312.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/312.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/523.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/523.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/367.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/367.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/292.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/292.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/492.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/492.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/487.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/487.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/11.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/11.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/98.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/98.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/225.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/225.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/458.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/458.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/461.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/461.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/34.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/34.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/200.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/200.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/116.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/116.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/42.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/42.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/88.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/88.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/377.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/377.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/494.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/494.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/462.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/462.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/183.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/183.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/498.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/498.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/465.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/465.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/305.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/305.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/35.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/35.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/526.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/526.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/213.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/213.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/149.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/149.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/371.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/371.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/285.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/285.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/127.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/127.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/144.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/144.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/85.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/85.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/438.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/438.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/289.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/289.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/530.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/530.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/53.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/53.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/298.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/298.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/67.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/67.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/142.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/142.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/187.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/187.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/287.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/287.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/534.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/534.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/210.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/210.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/317.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/317.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/16.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/16.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/382.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/382.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/198.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/198.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/488.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/488.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/513.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/513.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/208.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/208.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/336.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/336.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/366.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/366.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/251.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/251.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/532.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/532.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/13.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/13.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/459.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/459.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/9.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/9.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/500.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/500.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/101.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/101.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/454.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/454.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/483.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/483.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/529.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/529.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/108.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/108.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/255.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/255.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/441.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/441.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/202.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/202.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/464.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/464.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/154.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/154.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/307.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/307.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/337.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/337.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/300.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/300.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/41.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/41.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/456.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/456.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/242.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/242.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/191.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/191.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/505.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/505.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/472.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/472.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/46.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/46.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/379.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/379.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/437.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/437.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/466.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/466.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/175.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/175.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/97.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/97.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/318.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/318.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/158.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/158.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/157.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/157.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/344.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/344.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/56.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/56.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/322.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/322.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/138.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/138.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/519.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/519.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/475.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/475.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/21.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/21.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/125.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/125.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/209.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/209.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/240.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/240.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/520.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/520.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/426.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/426.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/107.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/107.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/96.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/96.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/248.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/248.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/375.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/375.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/1.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/1.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/343.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/343.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/348.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/348.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/173.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/173.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/271.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/271.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/45.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/45.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/190.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/190.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/50.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/50.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/418.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/418.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/491.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/491.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/236.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/236.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/388.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/388.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/148.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/148.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/332.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/332.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/181.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/181.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/33.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/33.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/460.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/460.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/10.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/10.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/81.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/81.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/171.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/171.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/3.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/3.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/533.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/533.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/150.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/150.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/76.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/76.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/395.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/395.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/504.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/504.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/58.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/58.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/502.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/502.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/151.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/151.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/431.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/431.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/444.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/444.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/103.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/103.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/354.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/354.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/214.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/214.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/342.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/342.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/314.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/314.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/463.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/463.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/275.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/275.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/277.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/277.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/90.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/90.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/374.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/374.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/77.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/77.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/412.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/412.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/172.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/172.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/531.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/531.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/17.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/17.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/15.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/15.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/120.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/120.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/447.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/447.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/140.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/140.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/326.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/326.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/333.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/333.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/162.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/162.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/91.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/91.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/528.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/528.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/283.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/283.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/368.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/368.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/297.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/297.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/369.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/369.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/443.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/443.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/22.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/22.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/347.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/347.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/358.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/358.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/442.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/442.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/212.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/212.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/163.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/163.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/62.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/62.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/165.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/165.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/31.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/31.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/396.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/396.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/281.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/281.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/329.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/329.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/400.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/400.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/476.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/476.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/48.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/48.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/43.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/43.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/360.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/360.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/197.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/197.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/129.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/129.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/222.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/222.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/284.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/284.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/244.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/244.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/470.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/470.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/113.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/113.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/478.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/478.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/204.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/204.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/124.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/124.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/457.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/457.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/453.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/453.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/249.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/249.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/414.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/414.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/20.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/20.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/356.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/356.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/416.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/416.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/394.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/394.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/223.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/223.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/514.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/514.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/311.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/311.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/509.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/509.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/211.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/211.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/72.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/72.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/345.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/345.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/178.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/178.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/511.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/511.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/38.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/38.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/131.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/131.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/398.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/398.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/413.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/413.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/422.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/422.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/221.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/221.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/408.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/408.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/196.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/196.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/262.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/262.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/27.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/27.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/174.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/174.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/267.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/267.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/484.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/484.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/392.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/392.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/308.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/308.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/75.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/75.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/68.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/68.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/145.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/145.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/499.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/499.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/206.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/206.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/493.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/493.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/54.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/54.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/232.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/232.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/455.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/455.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/203.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/203.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/403.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/403.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/12.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/12.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/130.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/130.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/423.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/423.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/188.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/188.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/365.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/365.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/266.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/266.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/497.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/497.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/507.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/507.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/384.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/384.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/389.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/389.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/481.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/481.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/234.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/234.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/353.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/353.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/135.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/135.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/273.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/273.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/524.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/524.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/156.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/156.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/346.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/346.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/310.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/310.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/435.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/435.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/119.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/119.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/471.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/471.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/220.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/220.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/378.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/378.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/258.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/258.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/49.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/49.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/264.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/264.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/143.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/143.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/274.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/274.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/141.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/141.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/146.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/146.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/254.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/254.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/450.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/450.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/6.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/6.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/199.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/199.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/170.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/170.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/94.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/94.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/256.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/256.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/294.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/294.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/420.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/420.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/246.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/246.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/104.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/104.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/355.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/355.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/512.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/512.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/301.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/301.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/486.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/486.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/282.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/282.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/123.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/123.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/84.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/84.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/313.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/313.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/30.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/30.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/185.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/185.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/126.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/126.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/128.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/128.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/489.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/489.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/18.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/18.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/193.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/193.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/227.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/227.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/304.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/304.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/324.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/324.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/352.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/352.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/121.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/121.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/201.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/201.png"
+    }
+  ],
+  "test": [
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/1.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/1.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/10.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/10.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/100.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/100.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/101.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/101.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/102.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/102.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/103.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/103.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/104.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/104.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/105.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/105.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/106.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/106.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/107.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/107.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/108.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/108.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/109.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/109.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/11.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/11.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/110.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/110.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/111.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/111.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/112.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/112.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/113.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/113.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/114.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/114.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/115.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/115.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/116.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/116.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/117.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/117.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/118.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/118.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/119.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/119.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/12.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/12.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/120.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/120.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/121.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/121.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/122.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/122.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/123.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/123.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/124.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/124.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/125.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/125.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/126.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/126.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/127.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/127.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/128.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/128.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/129.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/129.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/13.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/13.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/130.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/130.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/131.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/131.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/132.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/132.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/133.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/133.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/134.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/134.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/14.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/14.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/15.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/15.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/16.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/16.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/17.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/17.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/18.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/18.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/19.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/19.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/2.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/2.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/20.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/20.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/21.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/21.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/22.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/22.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/23.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/23.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/24.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/24.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/25.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/25.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/26.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/26.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/27.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/27.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/28.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/28.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/29.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/29.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/3.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/3.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/30.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/30.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/31.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/31.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/32.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/32.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/33.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/33.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/34.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/34.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/35.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/35.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/36.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/36.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/37.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/37.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/38.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/38.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/39.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/39.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/4.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/4.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/40.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/40.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/41.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/41.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/42.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/42.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/43.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/43.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/44.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/44.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/45.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/45.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/46.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/46.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/47.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/47.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/48.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/48.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/49.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/49.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/5.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/5.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/50.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/50.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/51.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/51.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/52.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/52.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/53.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/53.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/54.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/54.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/55.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/55.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/56.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/56.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/57.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/57.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/58.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/58.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/59.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/59.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/6.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/6.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/60.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/60.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/61.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/61.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/62.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/62.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/63.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/63.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/64.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/64.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/65.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/65.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/66.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/66.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/67.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/67.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/68.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/68.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/69.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/69.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/7.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/7.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/70.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/70.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/71.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/71.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/72.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/72.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/73.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/73.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/74.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/74.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/75.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/75.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/76.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/76.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/77.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/77.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/78.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/78.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/79.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/79.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/8.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/8.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/80.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/80.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/81.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/81.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/82.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/82.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/83.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/83.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/84.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/84.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/85.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/85.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/86.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/86.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/87.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/87.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/88.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/88.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/89.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/89.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/9.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/9.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/90.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/90.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/91.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/91.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/92.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/92.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/93.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/93.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/94.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/94.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/95.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/95.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/96.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/96.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/97.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/97.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/98.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/98.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/cloud/99.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/test/label/99.png"
+    }
+  ],
+  "valid": [
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/288.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/288.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/186.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/186.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/315.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/315.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/63.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/63.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/105.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/105.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/334.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/334.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/496.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/496.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/397.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/397.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/136.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/136.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/182.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/182.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/80.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/80.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/380.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/380.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/510.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/510.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/325.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/325.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/74.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/74.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/177.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/177.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/350.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/350.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/133.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/133.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/217.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/217.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/490.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/490.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/410.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/410.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/106.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/106.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/390.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/390.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/427.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/427.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/339.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/339.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/24.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/24.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/265.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/265.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/359.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/359.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/132.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/132.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/409.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/409.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/160.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/160.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/432.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/432.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/78.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/78.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/439.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/439.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/480.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/480.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/118.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/118.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/238.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/238.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/401.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/401.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/19.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/19.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/351.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/351.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/357.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/357.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/176.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/176.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/517.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/517.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/218.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/218.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/278.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/278.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/331.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/331.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/231.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/231.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/407.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/407.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/449.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/449.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/99.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/99.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/139.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/139.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/205.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/205.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/259.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/259.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/230.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/230.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/47.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/47.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/404.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/404.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/503.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/503.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/495.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/495.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/261.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/261.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/515.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/515.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/429.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/429.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/152.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/152.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/341.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/341.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/73.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/73.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/252.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/252.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/316.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/316.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/44.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/44.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/60.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/60.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/79.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/79.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/263.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/263.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/302.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/302.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/25.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/25.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/89.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/89.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/321.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/321.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/110.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/110.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/340.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/340.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/29.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/29.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/14.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/14.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/290.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/290.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/71.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/71.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/280.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/280.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/323.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/323.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/468.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/468.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/286.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/286.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/237.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/237.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/194.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/194.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/166.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/166.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/508.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/508.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/102.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/102.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/425.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/425.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/451.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/451.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/179.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/179.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/402.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/402.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/87.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/87.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/421.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/421.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/452.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/452.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/2.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/2.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/180.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/180.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/83.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/83.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/448.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/448.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/239.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/239.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/257.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/257.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/207.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/207.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/226.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/226.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/362.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/362.png"
+    },
+    {
+      "cloud": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/cloud/36.png",
+      "label": "cloud/C-CUHK/C-CUHK/CUHK-CR1/train/label/36.png"
+    }
+  ]
+}

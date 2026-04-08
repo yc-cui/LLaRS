@@ -1,0 +1,75 @@
+{
+  "path": "data_utils/dataset_files/pansharp/gaofen1_dataset.json",
+  "dataset_name": "pansharp_gaofen1",
+  "dataset_description": "gaofen1 pansharpening: multispectral and panchromatic inputs",
+  "inputs": {
+    "ms": {
+      "description": "Multispectral input",
+      "width": 256,
+      "height": 256,
+      "dtype": "uint16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        235.2926025390625,
+        240.41995300292967,
+        183.93488189697266,
+        330.76350555419924
+      ],
+      "std": [
+        51.19722226083964,
+        64.86802177006827,
+        68.06521522936704,
+        163.7665159986396
+      ],
+      "min": [
+        198.8913043478261,
+        179.4217391304348,
+        121.12173889823582,
+        174.39999986731488
+      ],
+      "max": [
+        417.5173913043478,
+        490.1,
+        430.10869578485904,
+        549.8652173913043
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 2048
+    },
+    "pan": {
+      "description": "Panchromatic input",
+      "width": 1024,
+      "height": 1024,
+      "dtype": "uint16",
+      "visual_channels": [
+        0
+      ],
+      "mean": [
+        246.7884644508362
+      ],
+      "std": [
+        102.54012532004606
+      ],
+      "min": [
+        133.3879961096722
+      ],
+      "max": [
+        564.4908102947733
+      ],
+      "num_channels": 1,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 2048
+    }
+  },
+  "num_train": 230,
+  "num_valid": 57,
+  "num_test": 123,
+  "num_total": 410
+}

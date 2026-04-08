@@ -1,0 +1,1468 @@
+{
+  "train": [
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (159).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (159).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (314).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (314).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (116).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (116).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (152).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (152).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (9).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (9).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (62).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (62).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (205).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (205).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (117).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (117).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (113).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (113).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (246).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (246).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (210).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (210).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (26).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (26).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (41).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (41).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (95).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (95).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (20).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (20).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (22).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (22).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (208).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (208).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (89).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (89).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (71).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (71).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (67).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (67).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (119).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (119).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (291).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (291).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (31).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (31).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (120).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (120).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (206).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (206).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (169).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (169).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (161).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (161).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (231).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (231).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (141).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (141).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (211).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (211).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (192).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (192).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (240).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (240).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (172).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (172).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (124).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (124).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (15).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (15).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (275).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (275).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (170).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (170).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (82).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (82).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (298).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (298).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (38).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (38).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (290).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (290).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (47).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (47).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (33).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (33).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (76).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (76).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (263).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (263).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (77).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (77).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (25).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (25).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (284).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (284).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (53).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (53).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (23).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (23).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (176).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (176).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (86).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (86).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (131).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (131).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (18).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (18).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (191).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (191).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (5).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (5).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (312).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (312).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (319).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (319).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (90).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (90).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (48).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (48).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (163).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (163).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (249).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (249).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (185).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (185).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (150).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (150).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (276).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (276).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (261).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (261).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (181).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (181).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (106).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (106).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (66).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (66).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (81).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (81).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (112).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (112).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (318).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (318).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (157).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (157).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (294).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (294).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (136).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (136).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (160).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (160).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (274).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (274).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (111).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (111).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (110).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (110).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (132).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (132).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (187).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (187).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (104).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (104).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (96).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (96).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (219).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (219).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (101).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (101).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (197).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (197).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (165).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (165).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (221).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (221).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (74).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (74).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (230).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (230).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (65).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (65).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (209).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (209).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (228).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (228).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (180).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (180).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (125).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (125).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (42).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (42).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (223).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (223).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (214).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (214).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (281).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (281).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (129).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (129).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (179).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (179).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (166).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (166).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (242).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (242).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (147).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (147).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (145).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (145).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (311).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (311).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (7).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (7).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (287).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (287).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (92).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (92).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (225).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (225).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (97).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (97).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (217).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (217).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (238).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (238).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (59).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (59).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (87).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (87).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (300).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (300).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (297).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (297).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (167).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (167).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (178).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (178).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (190).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (190).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (162).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (162).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (156).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (156).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (280).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (280).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (272).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (272).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (196).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (196).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (188).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (188).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (293).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (293).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (173).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (173).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (60).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (60).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (237).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (237).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (295).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (295).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (189).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (189).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (122).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (122).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (128).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (128).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (268).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (268).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (139).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (139).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (232).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (232).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (99).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (99).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (72).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (72).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (279).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (279).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (216).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (216).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (85).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (85).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (91).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (91).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (199).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (199).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (226).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (226).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (11).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (11).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (269).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (269).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (220).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (220).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (46).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (46).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (213).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (213).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (13).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (13).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (215).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (215).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (3).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (3).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (250).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (250).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (75).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (75).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (202).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (202).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (98).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (98).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (127).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (127).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (234).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (234).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (254).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (254).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (292).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (292).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (245).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (245).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (109).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (109).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (195).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (195).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (79).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (79).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (32).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (32).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (177).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (177).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (35).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (35).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (316).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (316).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (28).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (28).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (8).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (8).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (204).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (204).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (149).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (149).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (19).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (19).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (296).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (296).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (313).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (313).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (126).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (126).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (142).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (142).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (144).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (144).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (24).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (24).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (158).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (158).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (55).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (55).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (193).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (193).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (265).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (265).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (270).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (270).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (264).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (264).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (289).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (289).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (130).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (130).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (212).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (212).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (137).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (137).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (73).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (73).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (12).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (12).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (148).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (148).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (271).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (271).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (233).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (233).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (262).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (262).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (57).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (57).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (10).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (10).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (200).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (200).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (143).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (143).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (151).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (151).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (307).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (307).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (56).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (56).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (317).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (317).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (84).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (84).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (308).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (308).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (80).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (80).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (94).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (94).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (267).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (267).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (256).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (256).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (309).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (309).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (194).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (194).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (45).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (45).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (239).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (239).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (140).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (140).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (1).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (1).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (115).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (115).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (29).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (29).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (78).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (78).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (146).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (146).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (107).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (107).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (4).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (4).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (153).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (153).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (244).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (244).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (304).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (304).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (40).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (40).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (14).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (14).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (305).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (305).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (303).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (303).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (310).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (310).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (135).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (135).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (207).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (207).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (285).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (285).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (273).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (273).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (64).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (64).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (201).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (201).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (44).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (44).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (121).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (121).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (227).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (227).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (251).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (251).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (21).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (21).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (247).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (247).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (37).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (37).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (133).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (133).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (175).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (175).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (39).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (39).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (315).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (315).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (43).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (43).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (171).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (171).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (103).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (103).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (123).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (123).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (93).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (93).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (68).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (68).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (168).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (168).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (277).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (277).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (259).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (259).png"
+    }
+  ],
+  "test": [
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (1).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (1).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (10).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (10).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (11).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (11).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (12).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (12).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (13).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (13).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (14).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (14).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (15).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (15).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (16).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (16).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (17).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (17).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (18).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (18).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (19).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (19).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (2).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (2).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (20).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (20).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (21).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (21).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (22).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (22).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (23).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (23).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (24).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (24).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (25).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (25).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (26).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (26).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (27).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (27).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (28).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (28).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (29).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (29).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (3).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (3).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (30).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (30).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (31).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (31).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (32).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (32).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (33).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (33).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (34).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (34).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (35).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (35).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (36).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (36).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (37).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (37).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (38).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (38).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (39).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (39).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (4).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (4).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (40).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (40).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (41).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (41).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (42).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (42).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (43).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (43).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (44).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (44).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (45).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (45).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (5).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (5).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (6).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (6).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (7).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (7).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (8).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (8).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/test/input/ (9).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/test/target/ (9).png"
+    }
+  ],
+  "valid": [
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (257).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (257).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (320).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (320).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (266).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (266).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (100).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (100).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (27).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (27).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (61).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (61).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (278).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (278).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (218).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (218).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (255).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (255).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (183).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (183).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (63).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (63).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (288).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (288).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (155).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (155).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (229).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (229).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (52).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (52).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (105).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (105).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (49).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (49).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (70).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (70).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (154).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (154).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (184).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (184).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (114).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (114).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (198).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (198).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (164).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (164).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (6).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (6).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (258).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (258).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (50).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (50).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (174).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (174).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (138).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (138).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (241).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (241).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (54).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (54).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (118).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (118).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (83).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (83).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (282).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (282).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (69).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (69).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (30).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (30).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (34).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (34).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (306).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (306).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (260).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (260).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (252).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (252).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (108).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (108).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (236).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (236).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (17).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (17).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (182).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (182).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (302).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (302).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (253).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (253).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (222).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (222).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (248).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (248).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (301).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (301).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (102).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (102).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (186).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (186).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (283).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (283).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (203).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (203).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (51).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (51).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (299).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (299).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (235).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (235).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (224).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (224).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (286).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (286).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (134).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (134).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (36).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (36).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (16).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (16).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (2).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (2).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (58).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (58).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (88).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (88).png"
+    },
+    {
+      "hazy": "cloud/Haze1k/Haze1k/Haze1k_thin/train/input/ (243).png",
+      "gt": "cloud/Haze1k/Haze1k/Haze1k_thin/train/target/ (243).png"
+    }
+  ]
+}

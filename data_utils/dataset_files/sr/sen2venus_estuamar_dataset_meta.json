@@ -1,0 +1,89 @@
+{
+  "path": "data_utils/dataset_files/sr/sen2venus_estuamar_dataset.json",
+  "dataset_name": "sr_sen2venus_estuamar",
+  "dataset_description": "Sen2Venus ESTUAMAR super-resolution dataset: Sentinel-2 10 m to Venus 5 m",
+  "inputs": {
+    "lr": {
+      "description": "Sentinel-2 10 m low-resolution input",
+      "width": 128,
+      "height": 128,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        91.72736431801155,
+        349.1475105808206,
+        182.76508404457405,
+        2810.3151845017524
+      ],
+      "std": [
+        118.09195637865,
+        133.98949657549176,
+        202.4583256859514,
+        682.70645204897
+      ],
+      "min": [
+        -3.217855113826386,
+        129.13234033976516,
+        11.164373842004228,
+        1311.353219228248
+      ],
+      "max": [
+        422.1826617358482,
+        756.0309436223279,
+        701.3995151781056,
+        4532.7949323262255
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    },
+    "hr": {
+      "description": "Venus 5 m high-resolution ground truth",
+      "width": 256,
+      "height": 256,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        91.72736431801155,
+        349.1475105808206,
+        182.76508404457405,
+        2810.3151845017524
+      ],
+      "std": [
+        118.09195637865,
+        133.98949657549176,
+        202.4583256859514,
+        682.70645204897
+      ],
+      "min": [
+        -3.217855113826386,
+        129.13234033976516,
+        11.164373842004228,
+        1311.353219228248
+      ],
+      "max": [
+        422.1826617358482,
+        756.0309436223279,
+        701.3995151781056,
+        4532.7949323262255
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    }
+  },
+  "num_train": 584,
+  "num_valid": 146,
+  "num_test": 182,
+  "num_total": 912
+}

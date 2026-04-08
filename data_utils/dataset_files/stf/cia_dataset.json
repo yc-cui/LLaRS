@@ -1,0 +1,134 @@
+{
+  "train": [
+    {
+      "hr_prev": "stf/data/CIA/Landsat/L71093084_08420011007_HRF_modtran_surf_ref_agd66.tif",
+      "lr_prev": "stf/data/CIA/MODIS/MOD09GA_A2001281.sur_refl.tif",
+      "hr_gt": "stf/data/CIA/Landsat/L71093084_08420011016_HRF_modtran_surf_ref_agd66.tif",
+      "lr_curr": "stf/data/CIA/MODIS/MOD09GA_A2001290.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/CIA/Landsat/L71093084_08420011016_HRF_modtran_surf_ref_agd66.tif",
+      "lr_prev": "stf/data/CIA/MODIS/MOD09GA_A2001290.sur_refl.tif",
+      "hr_gt": "stf/data/CIA/Landsat/L71093084_08420011101_HRF_modtran_surf_ref_agd66.tif",
+      "lr_curr": "stf/data/CIA/MODIS/MOD09GA_A2001306.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/CIA/Landsat/L71093084_08420011101_HRF_modtran_surf_ref_agd66.tif",
+      "lr_prev": "stf/data/CIA/MODIS/MOD09GA_A2001306.sur_refl.tif",
+      "hr_gt": "stf/data/CIA/Landsat/L71093084_08420011108_HRF_modtran_surf_ref_agd66.tif",
+      "lr_curr": "stf/data/CIA/MODIS/MOD09GA_A2001313.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/CIA/Landsat/L71093084_08420011108_HRF_modtran_surf_ref_agd66.tif",
+      "lr_prev": "stf/data/CIA/MODIS/MOD09GA_A2001313.sur_refl.tif",
+      "hr_gt": "stf/data/CIA/Landsat/L71093084_08420011124_HRF_modtran_surf_ref_agd66.tif",
+      "lr_curr": "stf/data/CIA/MODIS/MOD09GA_A2001329.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/CIA/Landsat/L71093084_08420011124_HRF_modtran_surf_ref_agd66.tif",
+      "lr_prev": "stf/data/CIA/MODIS/MOD09GA_A2001329.sur_refl.tif",
+      "hr_gt": "stf/data/CIA/Landsat/L71093084_08420011203_HRF_modtran_surf_ref_agd66.tif",
+      "lr_curr": "stf/data/CIA/MODIS/MOD09GA_A2001338.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/CIA/Landsat/L71093084_08420011203_HRF_modtran_surf_ref_agd66.tif",
+      "lr_prev": "stf/data/CIA/MODIS/MOD09GA_A2001338.sur_refl.tif",
+      "hr_gt": "stf/data/CIA/Landsat/L71093084_08420020104_HRF_modtran_surf_ref_agd66.tif",
+      "lr_curr": "stf/data/CIA/MODIS/MOD09GA_A2002005.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/CIA/Landsat/L71093084_08420020104_HRF_modtran_surf_ref_agd66.tif",
+      "lr_prev": "stf/data/CIA/MODIS/MOD09GA_A2002005.sur_refl.tif",
+      "hr_gt": "stf/data/CIA/Landsat/L71093084_08420020111_HRF_modtran_surf_ref_agd66.tif",
+      "lr_curr": "stf/data/CIA/MODIS/MOD09GA_A2002012.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/CIA/Landsat/L71093084_08420020111_HRF_modtran_surf_ref_agd66.tif",
+      "lr_prev": "stf/data/CIA/MODIS/MOD09GA_A2002012.sur_refl.tif",
+      "hr_gt": "stf/data/CIA/Landsat/L71093084_08420020212_HRF_modtran_surf_ref_agd66.tif",
+      "lr_curr": "stf/data/CIA/MODIS/MOD09GA_A2002044.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/CIA/Landsat/L71093084_08420020212_HRF_modtran_surf_ref_agd66.tif",
+      "lr_prev": "stf/data/CIA/MODIS/MOD09GA_A2002044.sur_refl.tif",
+      "hr_gt": "stf/data/CIA/Landsat/L71093084_08420020221_HRF_modtran_surf_ref_agd66.tif",
+      "lr_curr": "stf/data/CIA/MODIS/MOD09GA_A2002053.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/CIA/Landsat/L71093084_08420020221_HRF_modtran_surf_ref_agd66.tif",
+      "lr_prev": "stf/data/CIA/MODIS/MOD09GA_A2002053.sur_refl.tif",
+      "hr_gt": "stf/data/CIA/Landsat/L71093084_08420020309_HRF_modtran_surf_ref_agd66.tif",
+      "lr_curr": "stf/data/CIA/MODIS/MOD09GA_A2002069.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/CIA/Landsat/L71093084_08420020309_HRF_modtran_surf_ref_agd66.tif",
+      "lr_prev": "stf/data/CIA/MODIS/MOD09GA_A2002069.sur_refl.tif",
+      "hr_gt": "stf/data/CIA/Landsat/L71093084_08420020316_HRF_modtran_surf_ref_agd66.tif",
+      "lr_curr": "stf/data/CIA/MODIS/MOD09GA_A2002076.sur_refl.tif"
+    }
+  ],
+  "valid": [
+    {
+      "hr_prev": "stf/data/CIA/Landsat/L71093084_08420020316_HRF_modtran_surf_ref_agd66.tif",
+      "lr_prev": "stf/data/CIA/MODIS/MOD09GA_A2002076.sur_refl.tif",
+      "hr_gt": "stf/data/CIA/Landsat/L71093084_08420020401_HRF_modtran_surf_ref_agd66.tif",
+      "lr_curr": "stf/data/CIA/MODIS/MOD09GA_A2002092.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/CIA/Landsat/L71093084_08420020401_HRF_modtran_surf_ref_agd66.tif",
+      "lr_prev": "stf/data/CIA/MODIS/MOD09GA_A2002092.sur_refl.tif",
+      "hr_gt": "stf/data/CIA/Landsat/L71093084_08420020410_HRF_modtran_surf_ref_agd66.tif",
+      "lr_curr": "stf/data/CIA/MODIS/MOD09GA_A2002101.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/CIA/Landsat/L71093084_08420020410_HRF_modtran_surf_ref_agd66.tif",
+      "lr_prev": "stf/data/CIA/MODIS/MOD09GA_A2002101.sur_refl.tif",
+      "hr_gt": "stf/data/CIA/Landsat/L71093084_08420020417_HRF_modtran_surf_ref_agd66.tif",
+      "lr_curr": "stf/data/CIA/MODIS/MOD09GA_A2002108.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/CIA/Landsat/L71093084_08420020417_HRF_modtran_surf_ref_agd66.tif",
+      "lr_prev": "stf/data/CIA/MODIS/MOD09GA_A2002108.sur_refl.tif",
+      "hr_gt": "stf/data/CIA/Landsat/L71093084_08420020426_HRF_modtran_surf_ref_agd66.tif",
+      "lr_curr": "stf/data/CIA/MODIS/MOD09GA_A2002117.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/CIA/Landsat/L71093084_08420020426_HRF_modtran_surf_ref_agd66.tif",
+      "lr_prev": "stf/data/CIA/MODIS/MOD09GA_A2002117.sur_refl.tif",
+      "hr_gt": "stf/data/CIA/Landsat/L71093084_08420020503_HRF_modtran_surf_ref_agd66.tif",
+      "lr_curr": "stf/data/CIA/MODIS/MOD09GA_A2002124.sur_refl.tif"
+    }
+  ],
+  "test": [
+    {
+      "hr_prev": "stf/data/CIA/Landsat/L71093084_08420020316_HRF_modtran_surf_ref_agd66.tif",
+      "lr_prev": "stf/data/CIA/MODIS/MOD09GA_A2002076.sur_refl.tif",
+      "hr_gt": "stf/data/CIA/Landsat/L71093084_08420020401_HRF_modtran_surf_ref_agd66.tif",
+      "lr_curr": "stf/data/CIA/MODIS/MOD09GA_A2002092.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/CIA/Landsat/L71093084_08420020401_HRF_modtran_surf_ref_agd66.tif",
+      "lr_prev": "stf/data/CIA/MODIS/MOD09GA_A2002092.sur_refl.tif",
+      "hr_gt": "stf/data/CIA/Landsat/L71093084_08420020410_HRF_modtran_surf_ref_agd66.tif",
+      "lr_curr": "stf/data/CIA/MODIS/MOD09GA_A2002101.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/CIA/Landsat/L71093084_08420020410_HRF_modtran_surf_ref_agd66.tif",
+      "lr_prev": "stf/data/CIA/MODIS/MOD09GA_A2002101.sur_refl.tif",
+      "hr_gt": "stf/data/CIA/Landsat/L71093084_08420020417_HRF_modtran_surf_ref_agd66.tif",
+      "lr_curr": "stf/data/CIA/MODIS/MOD09GA_A2002108.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/CIA/Landsat/L71093084_08420020417_HRF_modtran_surf_ref_agd66.tif",
+      "lr_prev": "stf/data/CIA/MODIS/MOD09GA_A2002108.sur_refl.tif",
+      "hr_gt": "stf/data/CIA/Landsat/L71093084_08420020426_HRF_modtran_surf_ref_agd66.tif",
+      "lr_curr": "stf/data/CIA/MODIS/MOD09GA_A2002117.sur_refl.tif"
+    },
+    {
+      "hr_prev": "stf/data/CIA/Landsat/L71093084_08420020426_HRF_modtran_surf_ref_agd66.tif",
+      "lr_prev": "stf/data/CIA/MODIS/MOD09GA_A2002117.sur_refl.tif",
+      "hr_gt": "stf/data/CIA/Landsat/L71093084_08420020503_HRF_modtran_surf_ref_agd66.tif",
+      "lr_curr": "stf/data/CIA/MODIS/MOD09GA_A2002124.sur_refl.tif"
+    }
+  ]
+}

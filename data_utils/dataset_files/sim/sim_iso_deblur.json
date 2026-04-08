@@ -1,0 +1,7 @@
+{
+  "description": "Isolated sources for deblurring: pansharp_worldview2(ms) + cloud_sar_summer(s2)",
+  "sources": [
+    {"name": "pansharp_worldview2", "input_key": "ms"},
+    {"name": "cloud_sar_sen12mscr_summer", "input_key": "s2"}
+  ]
+}

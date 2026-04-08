@@ -1,0 +1,89 @@
+{
+  "path": "data_utils/dataset_files/sr/sen2venus_atto_dataset.json",
+  "dataset_name": "sr_sen2venus_atto",
+  "dataset_description": "Sen2Venus ATTO super-resolution dataset: Sentinel-2 10 m to Venus 5 m",
+  "inputs": {
+    "lr": {
+      "description": "Sentinel-2 10 m low-resolution input",
+      "width": 128,
+      "height": 128,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        133.03056177163026,
+        342.0338607091627,
+        169.87265584478735,
+        2766.523428678183
+      ],
+      "std": [
+        51.14693499736798,
+        77.689069992968,
+        64.60572431393707,
+        613.5847334656692
+      ],
+      "min": [
+        53.75009847511724,
+        158.78535168068703,
+        68.8675026056018,
+        1433.105026983786
+      ],
+      "max": [
+        350.47467558083855,
+        626.220304138268,
+        491.5885366437181,
+        4118.3159240469395
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    },
+    "hr": {
+      "description": "Venus 5 m high-resolution ground truth",
+      "width": 256,
+      "height": 256,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        133.03056177163026,
+        342.0338607091627,
+        169.87265584478735,
+        2766.523428678183
+      ],
+      "std": [
+        51.14693499736798,
+        77.689069992968,
+        64.60572431393707,
+        613.5847334656692
+      ],
+      "min": [
+        53.75009847511724,
+        158.78535168068703,
+        68.8675026056018,
+        1433.105026983786
+      ],
+      "max": [
+        350.47467558083855,
+        626.220304138268,
+        491.5885366437181,
+        4118.3159240469395
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    }
+  },
+  "num_train": 1446,
+  "num_valid": 361,
+  "num_test": 451,
+  "num_total": 2258
+}

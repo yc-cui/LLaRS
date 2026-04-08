@@ -1,0 +1,75 @@
+{
+  "path": "data_utils/dataset_files/pansharp/ikonos_dataset.json",
+  "dataset_name": "pansharp_ikonos",
+  "dataset_description": "ikonos pansharpening: multispectral and panchromatic inputs",
+  "inputs": {
+    "ms": {
+      "description": "Multispectral input",
+      "width": 256,
+      "height": 256,
+      "dtype": "uint16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        436.22402221679687,
+        486.4661529541016,
+        380.60100158691404,
+        503.21576416015625
+      ],
+      "std": [
+        128.2832751898739,
+        150.20291220413162,
+        142.87241118274252,
+        241.80727191228178
+      ],
+      "min": [
+        341.39285714285717,
+        344.2767868041992,
+        228.39285714285714,
+        182.32142789023263
+      ],
+      "max": [
+        759.1607142857143,
+        969.3482153756278,
+        926.4732115609305,
+        1059.1875
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 2048
+    },
+    "pan": {
+      "description": "Panchromatic input",
+      "width": 1024,
+      "height": 1024,
+      "dtype": "uint16",
+      "visual_channels": [
+        0
+      ],
+      "mean": [
+        373.8055344390869
+      ],
+      "std": [
+        176.44624764376795
+      ],
+      "min": [
+        210.35124152047294
+      ],
+      "max": [
+        1014.868766784668
+      ],
+      "num_channels": 1,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 2048
+    }
+  },
+  "num_train": 112,
+  "num_valid": 28,
+  "num_test": 60,
+  "num_total": 200
+}

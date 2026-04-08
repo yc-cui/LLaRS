@@ -1,0 +1,7 @@
+{
+  "description": "Isolated sources for destriping: pansharp_worldview3(ms) + cloud_sar_fall(s2)",
+  "sources": [
+    {"name": "pansharp_worldview3", "input_key": "ms"},
+    {"name": "cloud_sar_sen12mscr_fall", "input_key": "s2"}
+  ]
+}

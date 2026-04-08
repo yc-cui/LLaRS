@@ -1,0 +1,89 @@
+{
+  "path": "data_utils/dataset_files/sr/sen2venus_esgisb_1_dataset.json",
+  "dataset_name": "sr_sen2venus_esgisb_1",
+  "dataset_description": "Sen2Venus ESGISB-1 super-resolution dataset: Sentinel-2 10 m to Venus 5 m",
+  "inputs": {
+    "lr": {
+      "description": "Sentinel-2 10 m low-resolution input",
+      "width": 128,
+      "height": 128,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        372.94436263214175,
+        581.528759521748,
+        565.4405617106296,
+        2456.7526750008437
+      ],
+      "std": [
+        224.40247940585934,
+        282.5166883301054,
+        365.0344038077969,
+        822.5859879092664
+      ],
+      "min": [
+        104.45888704666567,
+        188.83881168901019,
+        117.63686372497426,
+        834.0332606667833
+      ],
+      "max": [
+        1606.6784140502402,
+        1945.4075077131035,
+        2241.105361691304,
+        4625.8382402918505
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    },
+    "hr": {
+      "description": "Venus 5 m high-resolution ground truth",
+      "width": 256,
+      "height": 256,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        372.94436263214175,
+        581.528759521748,
+        565.4405617106296,
+        2456.7526750008437
+      ],
+      "std": [
+        224.40247940585934,
+        282.5166883301054,
+        365.0344038077969,
+        822.5859879092664
+      ],
+      "min": [
+        104.45888704666567,
+        188.83881168901019,
+        117.63686372497426,
+        834.0332606667833
+      ],
+      "max": [
+        1606.6784140502402,
+        1945.4075077131035,
+        2241.105361691304,
+        4625.8382402918505
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    }
+  },
+  "num_train": 1852,
+  "num_valid": 462,
+  "num_test": 578,
+  "num_total": 2892
+}

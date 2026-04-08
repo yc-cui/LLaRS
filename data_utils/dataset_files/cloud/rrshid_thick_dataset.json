@@ -1,0 +1,3064 @@
+{
+  "train": [
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1848.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1848.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/860.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/860.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/898.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/898.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/172.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/172.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/241.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/241.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1083.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1083.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/513.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/513.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/859.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/859.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2570.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2570.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/780.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/780.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/627.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/627.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2663.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2663.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/928.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/928.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/720.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/720.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/561.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/561.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/8.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/8.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/273.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/273.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1851.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1851.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/347.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/347.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/278.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/278.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/67.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/67.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1240.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1240.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/737.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/737.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2501.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2501.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/173.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/173.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1560.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1560.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1372.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1372.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2548.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2548.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/535.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/535.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/876.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/876.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/980.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/980.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/800.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/800.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/395.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/395.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1389.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1389.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/606.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/606.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/380.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/380.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/275.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/275.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1131.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1131.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/959.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/959.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/264.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/264.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/869.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/869.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/446.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/446.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/409.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/409.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/553.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/553.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/269.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/269.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/924.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/924.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2642.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2642.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2575.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2575.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/522.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/522.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/883.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/883.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2286.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2286.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/510.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/510.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/689.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/689.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1241.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1241.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/925.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/925.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/375.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/375.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/551.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/551.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/344.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/344.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/643.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/643.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/632.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/632.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/922.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/922.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/261.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/261.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/309.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/309.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2629.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2629.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2593.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2593.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/225.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/225.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2622.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2622.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2694.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2694.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/811.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/811.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1040.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1040.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1113.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1113.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/836.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/836.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/939.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/939.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1082.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1082.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/958.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/958.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1416.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1416.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/571.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/571.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/787.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/787.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/397.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/397.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/11.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/11.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/523.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/523.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2537.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2537.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/854.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/854.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2582.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2582.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1039.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1039.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2620.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2620.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/686.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/686.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1100.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1100.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/547.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/547.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/857.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/857.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/753.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/753.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/550.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/550.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1410.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1410.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1842.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1842.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/427.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/427.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/358.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/358.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/493.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/493.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/819.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/819.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1212.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1212.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2572.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2572.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/310.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/310.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/527.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/527.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/872.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/872.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/965.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/965.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/591.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/591.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/377.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/377.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/317.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/317.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/607.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/607.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/622.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/622.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1342.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1342.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/566.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/566.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/557.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/557.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1833.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1833.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/760.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/760.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2646.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2646.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/664.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/664.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/669.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/669.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2517.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2517.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/475.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/475.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1832.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1832.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/272.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/272.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/546.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/546.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/588.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/588.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2665.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2665.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/562.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/562.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/604.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/604.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/776.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/776.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/675.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/675.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1909.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1909.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2519.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2519.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/254.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/254.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/303.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/303.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/308.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/308.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/713.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/713.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/722.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/722.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/739.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/739.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1849.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1849.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/735.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/735.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/334.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/334.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/339.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/339.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/13.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/13.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/890.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/890.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1470.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1470.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1586.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1586.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1461.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1461.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/410.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/410.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/874.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/874.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/204.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/204.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1208.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1208.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/502.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/502.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1587.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1587.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1003.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1003.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/524.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/524.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/376.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/376.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/794.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/794.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1085.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1085.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2573.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2573.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/631.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/631.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/600.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/600.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/593.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/593.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/834.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/834.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/730.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/730.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/771.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/771.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/402.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/402.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/852.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/852.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1043.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1043.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1840.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1840.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/777.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/777.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/408.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/408.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/788.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/788.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2587.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2587.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2699.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2699.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/719.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/719.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/437.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/437.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/802.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/802.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2608.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2608.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2571.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2571.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/644.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/644.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2554.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2554.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/966.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/966.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/728.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/728.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1081.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1081.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/425.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/425.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1157.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1157.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/879.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/879.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/559.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/559.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2610.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2610.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/305.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/305.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/490.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/490.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/921.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/921.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1465.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1465.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1018.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1018.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/850.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/850.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/762.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/762.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/432.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/432.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1001.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1001.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1332.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1332.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1041.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1041.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/244.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/244.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/530.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/530.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2695.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2695.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/482.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/482.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/711.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/711.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/829.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/829.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/560.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/560.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/531.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/531.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/555.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/555.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/963.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/963.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/568.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/568.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2536.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2536.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/621.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/621.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/628.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/628.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/856.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/856.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1830.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1830.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2649.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2649.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2046.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2046.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/556.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/556.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1343.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1343.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1259.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1259.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2611.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2611.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/678.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/678.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2267.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2267.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1142.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1142.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/391.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/391.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/724.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/724.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1412.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1412.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/914.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/914.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/205.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/205.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/330.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/330.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/403.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/403.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1831.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1831.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/462.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/462.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2549.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2549.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2594.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2594.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/518.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/518.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1889.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1889.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/421.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/421.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1915.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1915.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/288.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/288.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/670.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/670.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/552.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/552.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1417.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1417.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/481.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/481.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2167.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2167.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/837.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/837.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/612.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/612.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1000.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1000.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1102.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1102.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2690.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2690.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/590.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/590.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2644.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2644.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/363.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/363.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/736.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/736.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/671.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/671.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/364.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/364.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2590.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2590.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/842.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/842.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/178.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/178.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/311.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/311.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/469.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/469.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1162.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1162.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/267.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/267.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/605.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/605.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/855.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/855.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2271.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2271.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1286.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1286.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/912.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/912.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/830.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/830.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/796.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/796.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1193.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1193.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/877.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/877.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/633.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/633.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/807.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/807.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/623.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/623.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/833.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/833.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1857.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1857.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/467.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/467.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/61.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/61.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1080.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1080.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/30.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/30.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/889.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/889.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/892.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/892.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/384.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/384.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/270.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/270.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/697.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/697.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1122.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1122.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1912.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1912.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/917.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/917.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2607.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2607.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/316.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/316.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/884.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/884.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/318.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/318.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/307.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/307.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/886.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/886.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/405.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/405.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/415.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/415.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/582.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/582.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1867.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1867.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/174.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/174.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1115.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1115.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/756.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/756.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2592.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2592.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/913.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/913.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/239.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/239.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/263.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/263.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1346.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1346.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/231.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/231.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/690.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/690.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2609.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2609.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/816.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/816.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1119.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1119.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/549.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/549.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1079.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1079.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/709.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/709.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/919.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/919.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/439.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/439.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1121.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1121.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/923.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/923.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/806.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/806.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2627.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2627.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/228.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/228.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1400.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1400.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/843.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/843.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/594.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/594.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/916.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/916.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1536.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1536.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1351.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1351.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/867.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/867.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1434.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1434.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/779.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/779.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1188.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1188.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1224.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1224.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/805.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/805.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1893.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1893.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2600.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2600.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/230.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/230.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/926.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/926.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/672.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/672.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1078.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1078.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2631.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2631.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/962.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/962.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/266.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/266.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2524.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2524.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1069.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1069.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/673.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/673.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/306.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/306.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1112.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1112.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/870.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/870.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/262.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/262.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2310.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2310.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/871.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/871.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/357.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/357.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/630.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/630.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/793.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/793.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2666.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2666.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/880.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/880.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/692.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/692.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/652.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/652.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/542.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/542.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/646.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/646.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/849.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/849.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1826.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1826.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/608.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/608.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1933.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1933.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/944.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/944.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1473.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1473.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/356.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/356.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/731.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/731.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/487.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/487.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1255.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1255.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1042.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1042.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/817.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/817.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/314.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/314.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/276.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/276.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/576.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/576.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1558.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1558.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/345.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/345.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/394.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/394.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/755.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/755.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1117.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1117.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/587.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/587.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/398.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/398.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/370.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/370.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/799.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/799.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/754.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/754.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1585.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1585.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1163.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1163.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/388.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/388.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/474.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/474.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1886.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1886.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/443.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/443.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1114.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1114.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2500.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2500.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1471.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1471.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/385.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/385.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/691.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/691.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1169.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1169.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/515.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/515.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/927.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/927.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2702.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2702.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/599.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/599.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/639.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/639.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1472.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1472.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/479.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/479.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/226.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/226.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/704.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/704.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/705.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/705.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/721.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/721.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/803.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/803.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1934.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1934.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1908.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1908.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/740.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/740.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/586.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/586.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/512.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/512.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/710.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/710.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/444.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/444.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/758.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/758.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/649.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/649.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1168.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1168.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1341.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1341.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/529.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/529.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1885.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1885.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1002.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1002.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/772.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/772.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2581.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2581.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2648.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2648.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/393.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/393.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/873.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/873.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1187.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1187.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/658.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/658.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2065.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2065.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/208.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/208.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1118.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1118.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/769.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/769.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/406.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/406.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/430.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/430.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/575.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/575.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/436.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/436.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/567.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/567.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/900.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/900.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2272.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2272.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/835.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/835.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1161.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1161.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/399.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/399.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/887.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/887.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1870.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1870.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1837.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1837.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/637.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/637.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1863.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1863.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/954.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/954.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2290.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2290.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1140.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1140.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/738.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/738.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/715.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/715.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2645.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2645.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1861.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1861.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/844.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/844.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/815.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/815.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1894.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1894.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/718.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/718.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/763.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/763.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1892.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1892.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/804.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/804.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2083.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2083.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/240.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/240.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/648.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/648.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/775.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/775.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/688.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/688.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/663.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/663.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/795.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/795.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/351.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/351.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/610.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/610.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/831.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/831.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/888.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/888.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/629.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/629.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/841.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/841.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/565.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/565.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1409.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1409.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/695.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/695.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2647.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2647.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/746.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/746.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1896.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1896.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/998.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/998.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1278.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1278.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1556.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1556.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1415.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1415.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/642.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/642.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/667.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/667.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/224.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/224.png"
+    }
+  ],
+  "test": [
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/1060.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/1060.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/1104.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/1104.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/1116.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/1116.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/1145.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/1145.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/1164.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/1164.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/1243.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/1243.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/1262.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/1262.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/1369.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/1369.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/1370.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/1370.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/1388.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/1388.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/1520.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/1520.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/156.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/156.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/1852.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/1852.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/1891.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/1891.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/1907.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/1907.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/1910.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/1910.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/1911.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/1911.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/221.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/221.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/232.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/232.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/2487.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/2487.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/2495.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/2495.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/2527.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/2527.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/2568.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/2568.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/2591.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/2591.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/2630.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/2630.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/2643.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/2643.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/2696.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/2696.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/274.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/274.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/315.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/315.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/335.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/335.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/353.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/353.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/354.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/354.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/362.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/362.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/374.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/374.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/404.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/404.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/429.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/429.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/431.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/431.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/435.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/435.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/478.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/478.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/480.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/480.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/486.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/486.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/508.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/508.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/516.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/516.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/517.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/517.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/520.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/520.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/578.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/578.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/589.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/589.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/596.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/596.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/598.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/598.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/602.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/602.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/609.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/609.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/635.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/635.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/638.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/638.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/645.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/645.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/655.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/655.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/674.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/674.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/682.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/682.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/684.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/684.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/685.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/685.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/698.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/698.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/725.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/725.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/757.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/757.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/759.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/759.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/764.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/764.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/765.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/765.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/801.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/801.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/820.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/820.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/851.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/851.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/858.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/858.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/885.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/885.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/897.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/897.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/899.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/899.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/911.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/911.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/956.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/956.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/957.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/957.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/test/hazy/961.png",
+      "gt": "cloud/RRSHID/thick_fog/test/clear/961.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/1059.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/1059.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/1089.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/1089.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/1095.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/1095.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/1099.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/1099.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/1185.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/1185.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/12.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/12.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/1205.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/1205.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/1254.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/1254.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/1301.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/1301.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/1395.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/1395.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/1521.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/1521.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/1589.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/1589.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/175.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/175.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/1906.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/1906.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/1913.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/1913.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/201.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/201.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/2014.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/2014.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/203.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/203.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/222.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/222.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/2291.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/2291.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/233.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/233.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/247.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/247.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/2516.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/2516.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/2518.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/2518.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/2528.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/2528.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/2556.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/2556.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/2589.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/2589.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/2662.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/2662.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/2667.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/2667.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/277.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/277.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/300.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/300.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/386.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/386.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/390.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/390.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/4.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/4.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/401.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/401.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/424.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/424.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/433.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/433.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/434.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/434.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/438.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/438.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/465.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/465.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/471.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/471.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/491.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/491.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/514.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/514.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/554.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/554.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/558.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/558.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/563.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/563.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/581.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/581.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/6.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/6.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/601.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/601.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/603.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/603.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/611.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/611.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/641.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/641.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/650.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/650.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/653.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/653.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/654.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/654.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/668.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/668.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/679.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/679.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/687.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/687.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/694.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/694.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/7.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/7.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/714.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/714.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/716.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/716.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/723.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/723.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/766.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/766.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/792.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/792.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/797.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/797.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/798.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/798.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/838.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/838.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/839.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/839.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/840.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/840.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/846.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/846.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/878.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/878.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/891.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/891.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/920.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/920.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/953.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/953.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/955.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/955.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/val/hazy/964.png",
+      "gt": "cloud/RRSHID/thick_fog/val/GT/964.png"
+    }
+  ],
+  "valid": [
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/526.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/526.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/426.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/426.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1186.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1186.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/511.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/511.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/960.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/960.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/355.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/355.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/680.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/680.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/447.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/447.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1141.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1141.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1199.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1199.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/624.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/624.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/845.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/845.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2692.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2692.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/450.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/450.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/918.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/918.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1890.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1890.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/676.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/676.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1850.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1850.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1829.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1829.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2613.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2613.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/473.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/473.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/868.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/868.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1143.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1143.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/521.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/521.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2693.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2693.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/706.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/706.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/453.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/453.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2628.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2628.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/445.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/445.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/693.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/693.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/470.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/470.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/810.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/810.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/940.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/940.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/770.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/770.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1103.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1103.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/392.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/392.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2502.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2502.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/227.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/227.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/387.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/387.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/265.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/265.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/881.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/881.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/595.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/595.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/974.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/974.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/5.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/5.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2292.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2292.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/271.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/271.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/223.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/223.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/729.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/729.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1318.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1318.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/592.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/592.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/340.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/340.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1380.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1380.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/116.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/116.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/442.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/442.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/853.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/853.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1914.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1914.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/350.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/350.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/656.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/656.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1834.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1834.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/662.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/662.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/34.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/34.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/389.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/389.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/647.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/647.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2588.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2588.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1147.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1147.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2612.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2612.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/400.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/400.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/999.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/999.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/814.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/814.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/882.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/882.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/548.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/548.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/651.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/651.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2555.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2555.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1557.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1557.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/597.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/597.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1166.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1166.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1204.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1204.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/832.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/832.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/396.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/396.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/483.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/483.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/732.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/732.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/519.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/519.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/304.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/304.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/281.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/281.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1303.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1303.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2632.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2632.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/117.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/117.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1144.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1144.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/727.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/727.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/381.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/381.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/761.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/761.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/476.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/476.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/681.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/681.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/268.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/268.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/908.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/908.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1871.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1871.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/640.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/640.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1897.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1897.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/477.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/477.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/979.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/979.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/472.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/472.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1207.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1207.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1371.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1371.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/634.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/634.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/875.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/875.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/564.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/564.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1019.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1019.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/915.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/915.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1888.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1888.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/809.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/809.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/528.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/528.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/700.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/700.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2602.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2602.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/2664.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/2664.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/68.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/68.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1203.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1203.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/509.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/509.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/229.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/229.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/726.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/726.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/1411.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/1411.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/717.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/717.png"
+    },
+    {
+      "hazy": "cloud/RRSHID/thick_fog/train/hazy/683.png",
+      "gt": "cloud/RRSHID/thick_fog/train/clear/683.png"
+    }
+  ]
+}

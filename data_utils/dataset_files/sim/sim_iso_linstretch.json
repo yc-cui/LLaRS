@@ -1,0 +1,7 @@
+{
+  "description": "Isolated sources for linear stretch: pansharp_worldview4(ms) + cloud_sar_winter(s2)",
+  "sources": [
+    {"name": "pansharp_worldview4", "input_key": "ms"},
+    {"name": "cloud_sar_sen12mscr_winter", "input_key": "s2"}
+  ]
+}

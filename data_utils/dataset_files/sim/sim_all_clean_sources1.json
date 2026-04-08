@@ -1,0 +1,29 @@
+{
+  "description": "General simulated-dataset source config: clean images from all available real datasets",
+  "sources": [
+    {"name": "cloud_sar_sen12mscr_spring", "input_key": "s2"},
+    {"name": "cloud_sar_sen12mscr_summer", "input_key": "s2"},
+    {"name": "cloud_sar_sen12mscr_fall", "input_key": "s2"},
+    {"name": "cloud_sar_sen12mscr_winter", "input_key": "s2"},
+    {"name": "sr_oli2msi", "input_key": "hr"},
+    {"name": "cloud_rice1", "input_key": "label"},
+    {"name": "cloud_rice2", "input_key": "label"},
+    {"name": "cloud_cuhk_cr1", "input_key": "label"},
+    {"name": "cloud_cuhk_cr2", "input_key": "label"},
+    {"name": "haze_haze1k_thin", "input_key": "gt"},
+    {"name": "haze_haze1k_moderate", "input_key": "gt"},
+    {"name": "haze_haze1k_thick", "input_key": "gt"},
+    {"name": "haze_rrshid_thin", "input_key": "gt"},
+    {"name": "haze_rrshid_moderate", "input_key": "gt"},
+    {"name": "haze_rrshid_thick", "input_key": "gt"},
+    {"name": "haze_rsid", "input_key": "gt"},
+    {"name": "haze_dhid", "input_key": "gt"},
+    {"name": "haze_lhid", "input_key": "gt"},
+    {"name": "noise_sar_filter", "input_key": "gt"},
+    {"name": "stf_cia", "input_key": "hr_gt"},
+    {"name": "stf_ahb", "input_key": "hr_gt"},
+    {"name": "stf_daxing", "input_key": "hr_gt"},
+    {"name": "stf_lgc", "input_key": "hr_gt"},
+    {"name": "stf_tianjin", "input_key": "hr_gt"}
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "path": "data_utils/dataset_files/sr/sen2venus_mad_ambo_dataset.json",
+  "dataset_name": "sr_sen2venus_mad_ambo",
+  "dataset_description": "Sen2Venus MAD-AMBO super-resolution dataset: Sentinel-2 10 m to Venus 5 m",
+  "inputs": {
+    "lr": {
+      "description": "Sentinel-2 10 m low-resolution input",
+      "width": 128,
+      "height": 128,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        321.89335335075083,
+        567.7475670488366,
+        645.114077745578,
+        2212.416284272165
+      ],
+      "std": [
+        126.64195345992806,
+        169.660177016848,
+        296.79903925207236,
+        606.2724602569155
+      ],
+      "min": [
+        92.50083979486904,
+        199.46983803092658,
+        136.49036638664478,
+        768.1236294833096
+      ],
+      "max": [
+        988.1262348059452,
+        1328.9684884868143,
+        1664.9323399531377,
+        3875.5291457403273
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    },
+    "hr": {
+      "description": "Venus 5 m high-resolution ground truth",
+      "width": 256,
+      "height": 256,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        321.89335335075083,
+        567.7475670488366,
+        645.114077745578,
+        2212.416284272165
+      ],
+      "std": [
+        126.64195345992806,
+        169.660177016848,
+        296.79903925207236,
+        606.2724602569155
+      ],
+      "min": [
+        92.50083979486904,
+        199.46983803092658,
+        136.49036638664478,
+        768.1236294833096
+      ],
+      "max": [
+        988.1262348059452,
+        1328.9684884868143,
+        1664.9323399531377,
+        3875.5291457403273
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    }
+  },
+  "num_train": 924,
+  "num_valid": 231,
+  "num_test": 288,
+  "num_total": 1443
+}

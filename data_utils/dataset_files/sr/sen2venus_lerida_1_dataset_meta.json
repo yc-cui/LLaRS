@@ -1,0 +1,89 @@
+{
+  "path": "data_utils/dataset_files/sr/sen2venus_lerida_1_dataset.json",
+  "dataset_name": "sr_sen2venus_lerida_1",
+  "dataset_description": "Sen2Venus LERIDA-1 super-resolution dataset: Sentinel-2 10 m to Venus 5 m",
+  "inputs": {
+    "lr": {
+      "description": "Sentinel-2 10 m low-resolution input",
+      "width": 128,
+      "height": 128,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        415.6137137635113,
+        691.7021366067129,
+        784.6678746053617,
+        2415.968140233706
+      ],
+      "std": [
+        284.57785669537805,
+        362.7876514760068,
+        586.2221300336212,
+        560.8011271249816
+      ],
+      "min": [
+        49.625159443894475,
+        186.60360987415052,
+        73.02932682821195,
+        1205.356439376204
+      ],
+      "max": [
+        1483.4629995685734,
+        2006.0623609568975,
+        2530.868738963506,
+        3976.840360458583
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    },
+    "hr": {
+      "description": "Venus 5 m high-resolution ground truth",
+      "width": 256,
+      "height": 256,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        415.6137137635113,
+        691.7021366067129,
+        784.6678746053617,
+        2415.968140233706
+      ],
+      "std": [
+        284.57785669537805,
+        362.7876514760068,
+        586.2221300336212,
+        560.8011271249816
+      ],
+      "min": [
+        49.625159443894475,
+        186.60360987415052,
+        73.02932682821195,
+        1205.356439376204
+      ],
+      "max": [
+        1483.4629995685734,
+        2006.0623609568975,
+        2530.868738963506,
+        3976.840360458583
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    }
+  },
+  "num_train": 1460,
+  "num_valid": 365,
+  "num_test": 456,
+  "num_total": 2281
+}

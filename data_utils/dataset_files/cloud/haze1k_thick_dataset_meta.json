@@ -1,0 +1,81 @@
+{
+  "path": "data_utils/dataset_files/cloud/haze1k_thick_dataset.json",
+  "dataset_name": "haze_haze1k_thick",
+  "dataset_description": "Haze1k Haze1k_thick remote sensing dehazing",
+  "inputs": {
+    "hazy": {
+      "description": "Hazy input",
+      "width": 512,
+      "height": 512,
+      "dtype": "uint8",
+      "visual_channels": [
+        0,
+        1,
+        2
+      ],
+      "mean": [
+        211.92738850414753,
+        222.76761737465858,
+        221.92113448679447
+      ],
+      "std": [
+        24.790491532486556,
+        24.24865307898444,
+        24.394643751655096
+      ],
+      "min": [
+        122.45703107118607,
+        134.26171869039536,
+        133.18359357118607
+      ],
+      "max": [
+        250.53515625,
+        254.66796875,
+        254.5859375
+      ],
+      "num_channels": 3,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 255
+    },
+    "gt": {
+      "description": "Haze-free ground truth",
+      "width": 512,
+      "height": 512,
+      "dtype": "uint8",
+      "visual_channels": [
+        0,
+        1,
+        2
+      ],
+      "mean": [
+        211.92738850414753,
+        222.76761737465858,
+        221.92113448679447
+      ],
+      "std": [
+        24.790491532486556,
+        24.24865307898444,
+        24.394643751655096
+      ],
+      "min": [
+        122.45703107118607,
+        134.26171869039536,
+        133.18359357118607
+      ],
+      "max": [
+        250.53515625,
+        254.66796875,
+        254.5859375
+      ],
+      "num_channels": 3,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 255
+    }
+  },
+  "num_train": 256,
+  "num_valid": 64,
+  "num_test": 45,
+  "num_total": 365
+}

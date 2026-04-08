@@ -1,0 +1,89 @@
+{
+  "path": "data_utils/dataset_files/sr/sen2venus_sudoue_2_dataset.json",
+  "dataset_name": "sr_sen2venus_sudoue_2",
+  "dataset_description": "Sen2Venus SUDOUE-2 super-resolution dataset: Sentinel-2 10 m to Venus 5 m",
+  "inputs": {
+    "lr": {
+      "description": "Sentinel-2 10 m low-resolution input",
+      "width": 128,
+      "height": 128,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        489.4132776653644,
+        785.3618827800161,
+        820.7103329982954,
+        2816.1121853798936
+      ],
+      "std": [
+        287.43054107932613,
+        370.74640705038064,
+        561.6419812824852,
+        867.525540476358
+      ],
+      "min": [
+        115.11815396118165,
+        230.17050639038087,
+        135.07477501831056,
+        1051.6415540283203
+      ],
+      "max": [
+        1771.1322315246582,
+        2192.2629725219726,
+        2562.7056670227053,
+        4979.438530078125
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    },
+    "hr": {
+      "description": "Venus 5 m high-resolution ground truth",
+      "width": 256,
+      "height": 256,
+      "dtype": "int16",
+      "visual_channels": [
+        2,
+        1,
+        0
+      ],
+      "mean": [
+        489.4132776653644,
+        785.3618827800161,
+        820.7103329982954,
+        2816.1121853798936
+      ],
+      "std": [
+        287.43054107932613,
+        370.74640705038064,
+        561.6419812824852,
+        867.525540476358
+      ],
+      "min": [
+        115.11815396118165,
+        230.17050639038087,
+        135.07477501831056,
+        1051.6415540283203
+      ],
+      "max": [
+        1771.1322315246582,
+        2192.2629725219726,
+        2562.7056670227053,
+        4979.438530078125
+      ],
+      "num_channels": 4,
+      "norm_type": "minmax",
+      "norm_shift": 50,
+      "norm_value": 10000
+    }
+  },
+  "num_train": 6208,
+  "num_valid": 1552,
+  "num_test": 1940,
+  "num_total": 9700
+}

@@ -1,0 +1,81 @@
+{
+  "path": "data_utils/dataset_files/cloud/dhid_dataset.json",
+  "dataset_name": "haze_dhid",
+  "dataset_description": "DHID (Dense Haze Image Dataset) remote sensing dehazing",
+  "inputs": {
+    "hazy": {
+      "description": "Hazy RS input",
+      "width": 512,
+      "height": 512,
+      "dtype": "uint8",
+      "visual_channels": [
+        0,
+        1,
+        2
+      ],
+      "mean": [
+        193.0412852699959,
+        193.01490124774193,
+        191.77553137159907
+      ],
+      "std": [
+        26.62593781140954,
+        26.280430313936705,
+        26.594271976313948
+      ],
+      "min": [
+        169.1936,
+        169.83839998474122,
+        168.95759999694823
+      ],
+      "max": [
+        221.0866,
+        220.8014,
+        220.37
+      ],
+      "num_channels": 3,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 255
+    },
+    "gt": {
+      "description": "Haze-free ground truth",
+      "width": 512,
+      "height": 512,
+      "dtype": "uint8",
+      "visual_channels": [
+        0,
+        1,
+        2
+      ],
+      "mean": [
+        193.0412852699959,
+        193.01490124774193,
+        191.77553137159907
+      ],
+      "std": [
+        26.62593781140954,
+        26.280430313936705,
+        26.594271976313948
+      ],
+      "min": [
+        169.1936,
+        169.83839998474122,
+        168.95759999694823
+      ],
+      "max": [
+        221.0866,
+        220.8014,
+        220.37
+      ],
+      "num_channels": 3,
+      "norm_type": "minmax",
+      "norm_shift": 0,
+      "norm_value": 255
+    }
+  },
+  "num_train": 11592,
+  "num_valid": 2898,
+  "num_test": 500,
+  "num_total": 14990
+}
